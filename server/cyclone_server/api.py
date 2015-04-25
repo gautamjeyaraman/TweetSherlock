@@ -1,11 +1,11 @@
 import json
 from cyclone_server import config
 from twitter_client import TwitterClient
-from sentiment_client import SentimentClient
+#from sentiment_client import SentimentClient
 import cyclone
 
 
-sentiment_classifier = SentimentClient()
+#sentiment_classifier = SentimentClient()
 
 class APIBase(cyclone.web.RequestHandler):
 
