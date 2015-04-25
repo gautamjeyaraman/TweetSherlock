@@ -25,3 +25,16 @@ font-size: 22px;
 .timeslot .task span {
 font-size:13px;
 }
+
+.intro_text{
+text-shadow: 0 0 2px rgba(0,0,0,.1);
+width: auto;
+margin: 0 auto;
+text-align: center;
+font-size: 28px;
+line-height: 54px;
+color: #fff;
+margin-top: 150px;
+font-weight: 400;
+letter-spacing: 1px;
+}
