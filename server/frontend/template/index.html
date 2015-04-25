@@ -8,52 +8,89 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-  	<title>Housing Hackathon</title>
+    <title>Tweet Sherlock</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet">
-
-
-    <!-- Custom styles for this template -->
-    <link href="/static/bootstrap/css/housinghackathon.css" rel="stylesheet">
+    <link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/bootstrap/css/style.min.css" rel="stylesheet">
+    <link href="/static/bootstrap/css/retina.min.css" rel="stylesheet">
+    <link href="/static/bootstrap/css/custom_dashboard.css" rel="stylesheet">
+    <link href="/static/bootstrap/css/dashboard.css" rel="stylesheet">
+    <link href="/static/bootstrap/css/custom.css" rel="stylesheet">
 
   </head>
 
-  <body style="font-size: 20px;">
+  <body>
 
-    <div class="blog-masthead">
-      <div class="container">
-        <nav class="blog-nav">
-        </nav>
-      </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <input type="text" id="search_key"/>
+                <button id="search_button" class="btn"><i class="icon-search" style="opacity:0.5;"></i> Search</button>
+            </div>
+        </div>
+
+        <div class="row">    
+            <div class="col-lg-6">
+                <div class="box">
+                    <div class="box-header" data-original-title="">
+                        <h2><i class="fa fa-user"></i><span class="break"></span>Positive Tweets</h2>
+                        <!--div class="box-icon">
+                            <a href="#" class="btn-setting"><i class="fa fa-wrench"></i></a>
+                            <a href="#" class="btn-minimize"><i class="fa fa-chevron-up"></i></a>
+                            <a href="#" class="btn-close"><i class="fa fa-times"></i></a>
+                        </div-->
+                    </div>
+                    <div class="box-content">
+                        <div class="graph">
+                            <div class="timeline" id="viewDiv7-top">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="box">
+                    <div class="box-header" data-original-title="">
+                        <h2><i class="fa fa-user"></i><span class="break"></span>Negative Tweets</h2>
+                        <!--div class="box-icon">
+                            <a href="#" class="btn-setting"><i class="fa fa-wrench"></i></a>
+                            <a href="#" class="btn-minimize"><i class="fa fa-chevron-up"></i></a>
+                            <a href="#" class="btn-close"><i class="fa fa-times"></i></a>
+                        </div-->
+                    </div>
+                    <div class="box-content">
+                        <div class="graph">
+                            <div class="timeline" id="viewDiv7-bottom"></div>
+                        </div>
+                    </div><!--/col-->    
+                </div>
+            </div>
+        </div>
+
     </div>
 
-    <div class="container-fluid">
-       <div class="row">
-		<div class="search_background_image">
-			<div class="search_main_container">
-				<div class="search_bar_wrapper">
-					<div class="keywords_container">
-						<input type="text" id="search_key"  style="height: 59px;width: 350px;"/>
-						<button id="search_button" class="btn search_btn"><i class="icon-search" style="opacity:0.5;"></i> Search</button>
-					</div>
-				</div>            
-			</div>
-		 </div>
-        </div><!-- /.row -->
-      
-    </div><!-- /.container -->
 
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
+    
     <!-- Placed at the end of the document so the pages load faster -->
 
-    <script src="/static/jquery-1.8.3.js"></script>
-    <script src="/static/js/bootstrap.js"></script>
-    <script src="/static/underscore.js"></script>
-    <script src="/static/js/housinghackathon.js"></script>
-    
+    <script src="/static/js/jquery-1.8.3.js"></script>
+    <script src="/static/js/underscore.js"></script>
+    <script src="/static/js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/jquery-ui-1.10.3.custom.min.js"></script>
+    <script src="/static/js/jquery.sparkline.min.js"></script>
+    <script src="/static/js/retina.min.js"></script>
+    <script src="/static/js/custom.min.js"></script>
+    <script src="/static/js/core.min.js"></script>
+    <script src="/static/js/jquery.flot.min.js"></script>
+    <script src="/static/js/jquery.flot.pie.min.js"></script>
+    <script src="/static/js/d3.min.js"></script>
+    <script src="/static/js/xcharts.min.js"></script>
+    <script src="/static/js/pages/index.js"></script>
+    <script src="/static/js/jquery.tmpl.min.js"></script>
+    <script src="/static/js/moment.js"></script>
+    <script src="/static/js/custom.js"></script>
   
  </body>
  
