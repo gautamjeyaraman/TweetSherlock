@@ -1,0 +1,24 @@
+body{
+font-weight:500;
+}
+
+.search_main_container {
+margin-top: 20px;
+height: auto;
+margin-bottom: 5px;
+}
+
+.search_bar_wrapper {
+display: inline-block;
+height: 40px;
+padding: 1px;
+border-radius: 3px;
+position: relative;
+cursor: pointer;
+}
+
+.keywords_container {
+display: inline-block;
+height: 48px;
+position: relative;
+}

@@ -8,15 +8,15 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>ID Card Reader</title>
+  	<title>Housing Hackathon</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/static/bootstrap/bootstrap.css" rel="stylesheet">
+    <link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet">
+
 
     <!-- Custom styles for this template -->
-    <link href="/static/bootstrap/blog.css" rel="stylesheet">
+    <link href="/static/bootstrap/css/housinghackathon.css" rel="stylesheet">
 
-    <style type="text/css" id="holderjs-style"></style>
   </head>
 
   <body style="font-size: 20px;">
@@ -29,56 +29,20 @@
     </div>
 
     <div class="container-fluid">
-      <div class="blog-header">
        <div class="row">
-          
-        <div id="webcam" style="height:480px;width:640px;float:left;margin-left:-105px;">
-        </div>
-
-        
-        <div class="sidebar-module col-sm-6 searchform" style= "float:right;padding-left:50px;padding-top:25px;margin-right:-75px;">
-            <span style= "margin-left:125px!important;font-size: large;">ID Data Reader </span> 
-            
-         <div class="row form1" style="margin-bottom:0;">
-             <div class="col-sm-4" style= "font-size:15px; font-family: proxima-nova,sans-serif;font-weight:800;">ID number </div>
-             <div class="col-sm-8">
-                 <span id="idcard" style="line-height:16px;margin-left:10px;font-size:18px;font-weight:800;color:#F89406;padding:10px;height:50px;">Reading...</span>
-             </div>
-         </div>
-
-         <div class="row form1" style="margin-bottom:0;">
-             <div class="col-sm-4" style= "font-size:15px; font-family: proxima-nova,sans-serif;font-weight:800;">Name </div>
-             <div class="col-sm-8">
-                 <span id="name" style="line-height:16px;margin-left:10px;font-size:18px;font-weight:800;color:#F89406;padding:10px;height:50px;"></span>
-             </div>
-         </div>
-         <div class="row form1" style="margin-bottom:0;">
-             <div class="col-sm-4" style= "font-size:15px; font-family: proxima-nova,sans-serif;font-weight:800;">Department </div>
-             <div class="col-sm-8">
-                 <span id="dept" style="line-height:16px;margin-left:10px;font-size:18px;font-weight:800;color:#F89406;padding:10px;height:50px;"></span>
-             </div>
-         </div>
-         <div class="row form1" style="margin-bottom:0;">
-             <div class="col-sm-4" style= "font-size:15px; font-family: proxima-nova,sans-serif;font-weight:800;">Undergrag/Grad </div>
-             <div class="col-sm-8">
-                 <span id="grad_type" style="line-height:16px;margin-left:10px;font-size:18px;font-weight:800;color:#F89406;padding:10px;height:50px;"></span>
-             </div>
-         </div>
-         <div class="row form1" style="margin-bottom:0;">
-             <div class="col-sm-4" style= "font-size:15px; font-family: proxima-nova,sans-serif;font-weight:800;">Card number </div>
-             <div class="col-sm-8">
-                 <span id="cardno" style="line-height:16px;margin-left:10px;font-size:18px;font-weight:800;color:#F89406;padding:10px;height:50px;"></span>
-             </div>
-         </div>
-    
-        </div>  
+		<div class="search_background_image">
+			<div class="search_main_container">
+				<div class="search_bar_wrapper">
+					<div class="keywords_container">
+						<input type="text" id="search_key"  style="height: 59px;width: 350px;"/>
+						<button id="search_button" class="btn search_btn"><i class="icon-search" style="opacity:0.5;"></i> Search</button>
+					</div>
+				</div>            
+			</div>
+		 </div>
         </div><!-- /.row -->
-       </div><!-- /.blog-header -->
       
     </div><!-- /.container -->
-
-    
-    
 
 
     <!-- Bootstrap core JavaScript
@@ -86,10 +50,9 @@
     <!-- Placed at the end of the document so the pages load faster -->
 
     <script src="/static/jquery-1.8.3.js"></script>
-    <script src="/static/bootstrap/bootstrap.js"></script>
+    <script src="/static/js/bootstrap.js"></script>
     <script src="/static/underscore.js"></script>
-    <script src="/static/webcam.js"></script>
-    <script src="/static/sample_cam.js"></script>
+    <script src="/static/js/housinghackathon.js"></script>
     
   
  </body>

@@ -1,0 +1,39 @@
+body{
+font-weight:500;
+}
+
+.search_background_image{
+background-image:url('../static/images/Dark-wood-black-background.jpg');
+}
+
+.search_main_container {
+margin-top: 50px;
+margin-left: 50px;
+height: auto;
+margin-bottom: 5px;
+}
+
+.search_bar_wrapper {
+display: inline-block;
+height: 40px;
+padding: 1px;
+border-radius: 3px;
+position: relative;
+cursor: pointer;
+}
+
+.search_btn{
+padding:4px 14px; 
+font-size:14px;
+margin-top:0; 
+background:transparent; box-shadow:none;
+background: #bc212d;
+color: white;
+opacity: 1;
+}
+
+.keywords_container {
+display: inline-block;
+height: 48px;
+position: relative;
+}
