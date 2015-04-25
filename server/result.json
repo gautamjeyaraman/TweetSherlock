@@ -1,5 +1,4 @@
-{
-    "data": [
+[
         {
             "count": {
                 "favorite": 0, 
@@ -4081,6 +4080,4 @@
                 "verified": true
             }
         }
-    ], 
-    "success": true
-}
+    ]
