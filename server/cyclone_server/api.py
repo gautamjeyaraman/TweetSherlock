@@ -26,7 +26,7 @@ class APIBase(cyclone.web.RequestHandler):
 class TweetHandler(APIBase):
 
     def get(self):
-        twitter_client = TwitterClient()
+        '''twitter_client = TwitterClient()
         query = self.get_argument("q")
         print "Fetching tweets"
         data = twitter_client.getTweets(query)
@@ -54,7 +54,8 @@ class TweetHandler(APIBase):
                     },
                     'sentiment': sentiment_classifier.getSentiment(tweet['text'])
             }
-            response.append(row)
+            response.append(row)'''
+        response = json.loads(open("result.json", "r").read())
         
         return self.write_json({'success': True, 'data': response})
 

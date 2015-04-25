@@ -1,0 +1,3540 @@
+{
+    "data": [
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 18:01:52 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 31, 
+            "text": "Oh no another earthquake :( Praying for those in Nepal!!!", 
+            "user": {
+                "description": "I GET REALLY NERDY \u2605 \u2020 (\u274d\u1d25\u274d\u028b)\u2606\u5f61dreamer | versatile | wanderlust | art & design junkie | volunteering | #Arrow | cartoonz | admin @worldwideelfs | \u2661\uc288\ud37c\uc8fc\ub2c8\uc5b4 & \u738b\u529b\u5b8f\u2661", 
+                "favorite": null, 
+                "followers": 262, 
+                "image": "http://pbs.twimg.com/profile_images/568291571834302464/hYLLYXS0_normal.jpeg", 
+                "location": "USA", 
+                "name": "Elaineeeeeeee", 
+                "tweets": 32414, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 18:01:10 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 3, 
+            "text": "Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth controls. Mercy!", 
+            "user": {
+                "description": "A #CS student from sir syed university karachi love's to pakistan proud be a pakistani from Khairpur mir's sindh pakistan\nRT are not endorsment", 
+                "favorite": null, 
+                "followers": 71, 
+                "image": "http://pbs.twimg.com/profile_images/589803356362645504/fGNZsn-z_normal.jpg", 
+                "location": "karachi sindh pakistan", 
+                "name": "zuhaib Ahmed", 
+                "tweets": 342, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 18:00:46 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 4, 
+            "text": "RT @Rjharoon: Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth con\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 102, 
+                "image": "http://pbs.twimg.com/profile_images/1388303273/GOJ_1105_normal.jpg", 
+                "location": "Montana", 
+                "name": "Josette Kincannon", 
+                "tweets": 7399, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 58
+            }, 
+            "created_at": "Sat Apr 25 18:00:36 +0000 2015", 
+            "hashtags": [
+                "lenskart", 
+                "NepalEarthquake"
+            ], 
+            "sentiment": 60, 
+            "text": "RT @IndianExpress: Blog: #lenskart took no time to apparently \u2018celebrate\u2019 #NepalEarthquake | http://t.co/GNuhcGBdRA | By @Debashis_sark htt\u2026", 
+            "user": {
+                "description": "\u7acb\u6b63\u5927\u5b66\u5730\u7403\u74b0\u5883\u79d1\u5b66\u90e8\u5730\u7406\u5b66\u79d14\u5e74/\u201994\u5e74\u751f\u307e\u308c/\u6559\u8077\u8ab2\u7a0b/\u535a\u7269\u9928\u5b66\u82b8\u54e1\u8cc7\u683c\u8ab2\u7a0b/\u958b\u6821142\u5468\u5e74\u300c\u30e2\u30e9\u30ea\u30b9\u30c8\u00d7\u30a8\u30ad\u30b9\u30d1\u30fc\u30c8\u300d\u3092\u80b2\u3080\u3002/3\u7d1aFP\u6280\u80fd\u58eb/#\u30aa\u30d7\u30a8\u30c9 #\u30ce\u30fc\u30dc\u30fc\u30c0\u30fc #noborder #\u6c11\u306e\u58f0\u65b0\u805e #\u30ea\u30c6\u30e9\u30b7\u30fc #\u30d5\u30a9\u30fc\u30e9\u30e0\uff14 #\u98db\u3079\u30b5\u30eb #\u30af\u30ed\u30b9 #gojimu #nhk24 #72\u6642\u9593 (RT)", 
+                "favorite": null, 
+                "followers": 1550, 
+                "image": "http://pbs.twimg.com/profile_images/504305630639710208/JX6zI4Gy_normal.png", 
+                "location": "\u65e5\u672c\u56fd\u3000JAPAN\u3000\u798f\u5cf6\u770c\u90e1\u5c71\u5e02", 
+                "name": "\u6238\u6fa4\u53f3\u9580 / Umon Tozawa", 
+                "tweets": 48656, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 18:00:29 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 4, 
+            "text": "RT @Rjharoon: Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth con\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 62, 
+                "image": "http://pbs.twimg.com/profile_images/1388302003/GOJ_0621_normal.jpg", 
+                "location": "Arizona", 
+                "name": "Alejandra Delacerda", 
+                "tweets": 11737, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 18:00:28 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 4, 
+            "text": "RT @Rjharoon: Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth con\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 14, 
+                "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png", 
+                "location": "", 
+                "name": "ali mohamed", 
+                "tweets": 1728, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 18:00:18 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 4, 
+            "text": "RT @Rjharoon: Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth con\u2026", 
+            "user": {
+                "description": "Aj gurbo sara din.......................", 
+                "favorite": null, 
+                "followers": 65, 
+                "image": "http://pbs.twimg.com/profile_images/581175455073636352/LUmg1rDJ_normal.jpg", 
+                "location": "USA", 
+                "name": "hollejan", 
+                "tweets": 5428, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 18:00:00 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 4, 
+            "text": "RT @Rjharoon: Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth con\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 13, 
+                "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png", 
+                "location": "", 
+                "name": "Kathyrn Deschomp", 
+                "tweets": 1849, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:58:33 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 4, 
+            "text": "RT @Rjharoon: Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth con\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 176, 
+                "image": "http://pbs.twimg.com/profile_images/576770416791805952/CgfWr6VG_normal.jpeg", 
+                "location": "US", 
+                "name": "Gary Reid", 
+                "tweets": 1181, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:57:49 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 3, 
+            "text": "Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth controls. Mercy!", 
+            "user": {
+                "description": "Stunning, intelligent, kind, sweet, charming, witty, hilarious, friendly & Radio Jockey. Well enough about ME! How are you?", 
+                "favorite": null, 
+                "followers": 6598, 
+                "image": "http://pbs.twimg.com/profile_images/497977165720207360/O4rnuDSW_normal.jpeg", 
+                "location": "", 
+                "name": "Haroon Hayat ", 
+                "tweets": 14901, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 2
+            }, 
+            "created_at": "Sat Apr 25 17:57:47 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 21, 
+            "text": "RT @Water4: Stop now and pray for #Nepal. If you were trapped in rubble after an #earthquake no doubt you would covet every prayer. May mir\u2026", 
+            "user": {
+                "description": "..............", 
+                "favorite": null, 
+                "followers": 822, 
+                "image": "http://pbs.twimg.com/profile_images/589575479247659009/MWL12hc3_normal.jpg", 
+                "location": "Slopes of Zomba Plateau", 
+                "name": "steve", 
+                "tweets": 29281, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 2
+            }, 
+            "created_at": "Sat Apr 25 17:53:59 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 21, 
+            "text": "RT @Water4: Stop now and pray for #Nepal. If you were trapped in rubble after an #earthquake no doubt you would covet every prayer. May mir\u2026", 
+            "user": {
+                "description": "global teacher, traveler, diehard Red Sox fan , fabric and photography artist, lover of life and believer in the importance of all people.....", 
+                "favorite": null, 
+                "followers": 443, 
+                "image": "http://pbs.twimg.com/profile_images/378800000146623895/a7b9f3ce45c7081273a1c9c5be861780_normal.jpeg", 
+                "location": "North Carolina USA", 
+                "name": "Kathy Bosiak", 
+                "tweets": 5848, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 2, 
+                "retweet": 2
+            }, 
+            "created_at": "Sat Apr 25 17:53:48 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 49, 
+            "text": "Stop now and pray for #Nepal. If you were trapped in rubble after an #earthquake no doubt you would covet every prayer. May miracles abound!", 
+            "user": {
+                "description": "We are eradicating the world\u2019s water crisis by putting the solution in the hands of the people.", 
+                "favorite": null, 
+                "followers": 2857, 
+                "image": "http://pbs.twimg.com/profile_images/3420501011/2f1e622e6d65568e5994eec58de2ef46_normal.jpeg", 
+                "location": "", 
+                "name": "Water4", 
+                "tweets": 4057, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 1, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:49:21 +0000 2015", 
+            "hashtags": [
+                "Bangladesh", 
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 27, 
+            "text": "So far no #Bangladesh Citizen's casualty reported in #Nepal #earthquake Embassy Hotlines +9779851039352, +9779808184014, +9779808765071", 
+            "user": {
+                "description": "You've gotta dance like there's nobody watching, Love like you'll never be hurt, Sing like there's nobody listening, And live like it's heaven on earth.\u201d", 
+                "favorite": null, 
+                "followers": 936, 
+                "image": "http://pbs.twimg.com/profile_images/548838075615297537/ZPxrzENp_normal.jpeg", 
+                "location": "Chandpur, Bangladesh", 
+                "name": "Md. Manir Hossain", 
+                "tweets": 4727, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 32
+            }, 
+            "created_at": "Sat Apr 25 17:49:09 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake", 
+                "earthquake", 
+                "Nepal"
+            ], 
+            "sentiment": 67, 
+            "text": "RT @eBama: Keep in Mind,No One Is More Powerful Than Mother Nature\n#NepalEarthquake \n#earthquake \nStay safe #Nepal http://t.co/D5Ko8kMuWa", 
+            "user": {
+                "description": "extraordinary", 
+                "favorite": null, 
+                "followers": 787, 
+                "image": "http://pbs.twimg.com/profile_images/591848331455950848/ulKsUUwZ_normal.jpg", 
+                "location": "", 
+                "name": "Breezy", 
+                "tweets": 17214, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:48:41 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 73, 
+            "text": "RT @kapsgupta: Google launches Person Finder for Nepal quake @suhelseth  http://t.co/ctRVc814fB", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 8, 
+                "image": "http://pbs.twimg.com/profile_images/581845033697054720/9cO8D4pa_normal.jpg", 
+                "location": "Chicago", 
+                "name": "Manvendra Bhardwaj", 
+                "tweets": 23, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:47:32 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 9, 
+            "text": "Nepal earthquake: Mild tremors in Gujarat, no casualties: Tremors were today felt in many parts ... http://t.co/EqE2qJA2Je Gujarat Times", 
+            "user": {
+                "description": "Gujarat News", 
+                "favorite": null, 
+                "followers": 1649, 
+                "image": "http://pbs.twimg.com/profile_images/521031615/GT_normal.jpg", 
+                "location": "Gujarat, India.", 
+                "name": "Gujarat Times", 
+                "tweets": 109412, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 58
+            }, 
+            "created_at": "Sat Apr 25 17:47:09 +0000 2015", 
+            "hashtags": [
+                "lenskart", 
+                "NepalEarthquake"
+            ], 
+            "sentiment": 60, 
+            "text": "RT @IndianExpress: Blog: #lenskart took no time to apparently \u2018celebrate\u2019 #NepalEarthquake | http://t.co/GNuhcGBdRA | By @Debashis_sark htt\u2026", 
+            "user": {
+                "description": "Panchyathi Raj engineer B.tech, ( M.Tech Water Resources) 33 yrs service. IRC Life member & its council member in 2010-11. Devote of Lord Krishna. Now  at Kadir", 
+                "favorite": null, 
+                "followers": 5, 
+                "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png", 
+                "location": "Anantapur 515001", 
+                "name": "V SATYAM REDDY", 
+                "tweets": 23, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 17:46:53 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 26, 
+            "text": "RT @ronakbear: Almost a thousand people died last night from an earthquake in Nepal. Multiple nations send aid immediately. No word from Am\u2026", 
+            "user": {
+                "description": "lululemon athletica | Starbucks Coffee", 
+                "favorite": null, 
+                "followers": 151, 
+                "image": "http://pbs.twimg.com/profile_images/526817044860522498/GRCyD-Qg_normal.jpeg", 
+                "location": "", 
+                "name": "Angelo\u2122\u00ae\u00a9", 
+                "tweets": 13487, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 1, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:46:30 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 25, 
+            "text": "Yes I have/had plans to go to Nepal in June, no I'm not there right now. Just heard the news of the 7.8 earthquake! Praying for the famikies", 
+            "user": {
+                "description": "Full time missionary in Ambato, Ecuador with Extreme Nazarene Ministries - http://t.co/DsuQh2as7W\nIf I get spare time I write about travel/credit card advice.", 
+                "favorite": null, 
+                "followers": 917, 
+                "image": "http://pbs.twimg.com/profile_images/555029728198156288/q0AhMDEf_normal.jpeg", 
+                "location": "Ambato, Ecuador", 
+                "name": "David Morrison", 
+                "tweets": 5865, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 2
+            }, 
+            "created_at": "Sat Apr 25 17:43:51 +0000 2015", 
+            "hashtags": [
+                "StayStrongNepal"
+            ], 
+            "sentiment": 12, 
+            "text": "RT @vNsNk: The earthquake in Nepal is extremely tragic. Many people displaced, lives lost, and historic buildings no more. #StayStrongNepal", 
+            "user": {
+                "description": "Stay Hungry. Stay Foolish.", 
+                "favorite": null, 
+                "followers": 426, 
+                "image": "http://pbs.twimg.com/profile_images/553737119454461952/DC2iBikz_normal.jpeg", 
+                "location": "Ottawa", 
+                "name": "Faysol Kabir", 
+                "tweets": 7341, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 1, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:43:06 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 37, 
+            "text": "My brother Raphael enroute to Everest base camp no longer in Kathmandu, no way to contact but likely safe. Pray for Nepal earthquake victims", 
+            "user": {
+                "description": "Principal, Ecole Dickinsfield...growing leaders, 1 habit at a time", 
+                "favorite": null, 
+                "followers": 17, 
+                "image": "http://pbs.twimg.com/profile_images/560984062118998016/sFVIe5-q_normal.jpeg", 
+                "location": "Fort McMurray", 
+                "name": "Paul Smith", 
+                "tweets": 50, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 1, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:43:01 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 34, 
+            "text": "\"Did you hear about the tragic earthquake in Nepal?  No...where's that? Hey did you see the the Bruce Jenner interview ?\"", 
+            "user": {
+                "description": "a guitar playin',songwritin', soccer coachin' father of two trying to figure it out in Boston. Running http://t.co/YJ1XyvRVsT helps finance my habits.", 
+                "favorite": null, 
+                "followers": 192, 
+                "image": "http://pbs.twimg.com/profile_images/378800000794172564/e499226e6119ac37be9ee591e55cd9e4_normal.jpeg", 
+                "location": "Waltham MA", 
+                "name": "Roger Jermyn", 
+                "tweets": 3680, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 12
+            }, 
+            "created_at": "Sat Apr 25 17:42:16 +0000 2015", 
+            "hashtags": [
+                "Bangladesh", 
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 31, 
+            "text": "RT @CP_Gang: So far no #Bangladesh Citizen's casualty reported in #Nepal #earthquake Embassy Hotlines +9779851039352, +9779808184014, +9779\u2026", 
+            "user": {
+                "description": "\u0986\u09ae\u09bf \u099c\u09af\u09bc \u09ac\u09be\u0982\u09b2\u09be\u09b0 \u09b2\u09cb\u0995,\u0986\u09ae\u09be\u09b0 \u09ae\u09be\u09b0\u09cd\u0995\u09be \u09a8\u09cc\u0995\u09be\u0964\u0986\u09ae\u09bf \u09b8\u09cb\u09a8\u09be\u09b0 \u09ac\u09be\u0982\u09b2\u09be\u09b0 \u09b8\u09cd\u09ac\u09aa\u09cd\u09a8\u09c7 \u09ac\u09bf\u09ad\u09cb\u09b0\u0964", 
+                "favorite": null, 
+                "followers": 166, 
+                "image": "http://pbs.twimg.com/profile_images/576090614615298048/1A5otb0Y_normal.jpeg", 
+                "location": "Dhaka", 
+                "name": "Deen Islam Robin", 
+                "tweets": 2394, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:39:28 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 46, 
+            "text": "RT @TheParulSharma: Please !! God ! No earthquake!! Praying \ud83d\ude4f\ud83d\ude4f and hoping that everyone safe in Nepal !! #earthquake", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 2, 
+                "image": "http://pbs.twimg.com/profile_images/574948538192285698/kh-MJ5J6_normal.jpeg", 
+                "location": "", 
+                "name": "Adarsh Chauhan", 
+                "tweets": 297, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 17:39:17 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 26, 
+            "text": "RT @ronakbear: Almost a thousand people died last night from an earthquake in Nepal. Multiple nations send aid immediately. No word from Am\u2026", 
+            "user": {
+                "description": "20, TLU Molecular Bio major| TLU17|. Born in Toms River NJ, raised in San Antonio Texas. Instagram: antwan_jay", 
+                "favorite": null, 
+                "followers": 458, 
+                "image": "http://pbs.twimg.com/profile_images/583658234931580929/oasoAzpu_normal.jpg", 
+                "location": "SA, Tx", 
+                "name": "Antonio N\u00fa\u00f1ez", 
+                "tweets": 11759, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 17:37:47 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 26, 
+            "text": "RT @ronakbear: Almost a thousand people died last night from an earthquake in Nepal. Multiple nations send aid immediately. No word from Am\u2026", 
+            "user": {
+                "description": "Temporary resident // @breauxchacho \u2764\ufe0f", 
+                "favorite": null, 
+                "followers": 359, 
+                "image": "http://pbs.twimg.com/profile_images/589626876240519168/bPR0-WPI_normal.jpg", 
+                "location": "EARTH", 
+                "name": "oohcheebangbang", 
+                "tweets": 17411, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 1, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:37:17 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 33, 
+            "text": "There is no way anyone can convince me the earthquake in Nepal was not a direct result of science and not nature.", 
+            "user": {
+                "description": "I'm on the back of the boat takin pictures with the swordfish.", 
+                "favorite": null, 
+                "followers": 2261, 
+                "image": "http://pbs.twimg.com/profile_images/534448205694382080/QFxCmZ8p_normal.jpeg", 
+                "location": "\u2728spanto lives\u2728", 
+                "name": "jenn.", 
+                "tweets": 33240, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 12
+            }, 
+            "created_at": "Sat Apr 25 17:36:20 +0000 2015", 
+            "hashtags": [
+                "Bangladesh", 
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 31, 
+            "text": "RT @CP_Gang: So far no #Bangladesh Citizen's casualty reported in #Nepal #earthquake Embassy Hotlines +9779851039352, +9779808184014, +9779\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 365, 
+                "image": "http://pbs.twimg.com/profile_images/564066334107906050/innMGwmv_normal.jpeg", 
+                "location": "Dhaka, Bangladesh ", 
+                "name": "S M Jalal", 
+                "tweets": 2077, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 132
+            }, 
+            "created_at": "Sat Apr 25 17:36:10 +0000 2015", 
+            "hashtags": [
+                "earthquake", 
+                "Nepal"
+            ], 
+            "sentiment": 5, 
+            "text": "RT @TOILucknow: Terrible #earthquake in #Nepal. Aftershock felt in Lucknow - strongest in at least 40 years. No reports of any loss in city", 
+            "user": {
+                "description": "Live free, Live young!!!", 
+                "favorite": null, 
+                "followers": 273, 
+                "image": "http://pbs.twimg.com/profile_images/574109088906223616/8SA3PQ5R_normal.jpeg", 
+                "location": "Pune", 
+                "name": "Ntihin Satheesh", 
+                "tweets": 73762, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:35:44 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 46, 
+            "text": "Funny how no one talks about the earthquake in Nepal", 
+            "user": {
+                "description": "-peace and blessings-", 
+                "favorite": null, 
+                "followers": 98, 
+                "image": "http://pbs.twimg.com/profile_images/579181420712570880/bGT7DsEV_normal.jpg", 
+                "location": "", 
+                "name": "Thandi", 
+                "tweets": 2345, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 1, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:35:27 +0000 2015", 
+            "hashtags": [
+                "Bangladesh", 
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 27, 
+            "text": "So far no #Bangladesh Citizen's casualty reported in #Nepal #earthquake Embassy Hotlines +9779851039352, +9779808184014, +9779808765071", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 365, 
+                "image": "http://pbs.twimg.com/profile_images/564066334107906050/innMGwmv_normal.jpeg", 
+                "location": "Dhaka, Bangladesh ", 
+                "name": "S M Jalal", 
+                "tweets": 2077, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:35:26 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 42, 
+            "text": "Disaster in Nepal: see the first @UN_Nepal report here http://t.co/yEFrCOrVw9 #earthquake nepal http://t.co/37BISXxEmG", 
+            "user": {
+                "description": "Centre for Communication and Social Change. A bi-national research group for research in the field of Communication for Development.", 
+                "favorite": null, 
+                "followers": 364, 
+                "image": "http://pbs.twimg.com/profile_images/1676824028/o-twitter_normal.png", 
+                "location": "Malm\u00f6 (SE) & Roskilde (DK)", 
+                "name": "Orecomm", 
+                "tweets": 960, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:35:04 +0000 2015", 
+            "hashtags": [
+                "EARTHQUAKE", 
+                "Nepal"
+            ], 
+            "sentiment": 36, 
+            "text": "I have seen how Great these RSS guys in helping people during the last Gujarat #EARTHQUAKE. No one can match for them! Great guys! #Nepal", 
+            "user": {
+                "description": "I use my free time the way I want as I consider this as one of the major forms of exercising my FREEDOM!\nRTs are definitely not endorsements.", 
+                "favorite": null, 
+                "followers": 95, 
+                "image": "http://pbs.twimg.com/profile_images/530703639380107265/-vzAL9v3_normal.jpeg", 
+                "location": "Hyderabad, India", 
+                "name": "V Gopalan", 
+                "tweets": 2477, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 164
+            }, 
+            "created_at": "Sat Apr 25 17:34:50 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 2, 
+            "text": "RT @yamigautam: Such saw some shocking pics of the damage caused due to earthquake in Nepal.Sad to hear the no.of casualties.Prayers &amp;stren\u2026", 
+            "user": {
+                "description": "Caring too much only fucks you over.", 
+                "favorite": null, 
+                "followers": 1321, 
+                "image": "http://pbs.twimg.com/profile_images/564274372538425344/FHfXzriv_normal.jpeg", 
+                "location": "", 
+                "name": "Crush On Yu", 
+                "tweets": 1788, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 164
+            }, 
+            "created_at": "Sat Apr 25 17:34:15 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 2, 
+            "text": "RT @yamigautam: Such saw some shocking pics of the damage caused due to earthquake in Nepal.Sad to hear the no.of casualties.Prayers &amp;stren\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 3, 
+                "image": "http://pbs.twimg.com/profile_images/569118568843714560/pNfy_fRq_normal.jpeg", 
+                "location": "", 
+                "name": "Abhishek pathak", 
+                "tweets": 17, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:32:43 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 33, 
+            "text": "#earthquake we should donate something to Nepal in this disaster. No matter how small that is.", 
+            "user": {
+                "description": "WhatsApp on 9389490222", 
+                "favorite": null, 
+                "followers": 18, 
+                "image": "http://pbs.twimg.com/profile_images/527150619488833537/eJ9qcyG__normal.jpeg", 
+                "location": "Kanpur", 
+                "name": "#Devashish Tiwari", 
+                "tweets": 1176, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:32:43 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 29, 
+            "text": "@politico Earthquake in Nepal. I blame fracking.  Wait...there is no fracking in Nepal...", 
+            "user": {
+                "description": "Half-retired.  Photography, hiking, camping, and reading.", 
+                "favorite": null, 
+                "followers": 59, 
+                "image": "http://pbs.twimg.com/profile_images/61314208/Crying_Eagle_normal.jpg", 
+                "location": "Yorktown, Virginia", 
+                "name": "Brooks A. Mick", 
+                "tweets": 4255, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:31:26 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 56, 
+            "text": "There was a huge earthquake in Nepal and people are arguing over Kris Jenner having no comment on her ex-husband becoming a woman.", 
+            "user": {
+                "description": "Produced for The Game, Dubb, Skeme, Chinx Drugz, Cory Gunz, Cardiak, The Superiors, Smoke DZA, D-Block | Email: beatsonsteroids@gmail.com", 
+                "favorite": null, 
+                "followers": 2113, 
+                "image": "http://pbs.twimg.com/profile_images/575140450773807104/C7dbcGZU_normal.jpeg", 
+                "location": "Toronto", 
+                "name": "Duke Dinero", 
+                "tweets": 130416, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 218
+            }, 
+            "created_at": "Sat Apr 25 17:30:51 +0000 2015", 
+            "hashtags": [
+                "Earthquake"
+            ], 
+            "sentiment": 19, 
+            "text": "RT @damnhappyyy: 25/4/15 prayers and hope there are no casualty damages or losses from the #Earthquake.measuring 7.7 in nepal http://t.co/M\u2026", 
+            "user": {
+                "description": "21 AfricanAmerican/PuertoRican", 
+                "favorite": null, 
+                "followers": 214, 
+                "image": "http://pbs.twimg.com/profile_images/585548044868915204/SjzPgkpq_normal.jpg", 
+                "location": "Cleveland Ohio ", 
+                "name": "Erika", 
+                "tweets": 3721, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 72
+            }, 
+            "created_at": "Sat Apr 25 17:29:16 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 40, 
+            "text": "RT @NyBrit12: An earthquake killed over 900 people in Nepal and no one is talking about it. CNN would rather talk about Bruce Jenner. I'm g\u2026", 
+            "user": {
+                "description": "Observer of life and being human", 
+                "favorite": null, 
+                "followers": 19, 
+                "image": "http://pbs.twimg.com/profile_images/566466223924588546/KYsj7-S8_normal.jpeg", 
+                "location": "", 
+                "name": "Willy Lump Lump", 
+                "tweets": 130, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:26:28 +0000 2015", 
+            "hashtags": [
+                "fail"
+            ], 
+            "sentiment": 25, 
+            "text": "@SABCNewsOnline Just watched Sabc 1 News , 1500 dead so far in Nepal earthquake no mention. Stories about ANC. News sense #fail", 
+            "user": {
+                "description": "Freelance Fox News Correspondent, TV director and producer", 
+                "favorite": null, 
+                "followers": 145, 
+                "image": "http://pbs.twimg.com/profile_images/416102094182301696/wbfi7P4x_normal.jpeg", 
+                "location": "Johannesburg", 
+                "name": "Paul Tilsley", 
+                "tweets": 2075, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:26:28 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 34, 
+            "text": "@CNN -  No one cares about Bruce Jenner.  We didn't before,  we still don't.  Maybe cover the 7.8 earthquake in Nepal?", 
+            "user": {
+                "description": "I do software marketing stuff, make costumes, play hockey! 'Life is not measured by the number of breaths we take, but by the moments that take our breath away'", 
+                "favorite": null, 
+                "followers": 5240, 
+                "image": "http://pbs.twimg.com/profile_images/588916257216397312/Mi5fqb0Q_normal.jpg", 
+                "location": "Chicagoland", 
+                "name": "Kodi ", 
+                "tweets": 18459, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:26:05 +0000 2015", 
+            "hashtags": [
+                "Kathmandu", 
+                "Earthquake", 
+                "Nepal"
+            ], 
+            "sentiment": 42, 
+            "text": "RT @ranjalrajesh: As of now Pashupati temple complex intact in #Kathmandu no severe damages to temple due to #Earthquake in #Nepal http://t\u2026", 
+            "user": {
+                "description": "Ex-UK firefighter in U.S. G I FIRE E. Proud Husband & Dad. LGBT/Civil Rights Activist, Mobile Filmmaking.Indiefilm esp my son \u27a1 blackhartfilms.weebly.", 
+                "favorite": null, 
+                "followers": 2863, 
+                "image": "http://pbs.twimg.com/profile_images/544478709462216705/29rhDu3m_normal.jpeg", 
+                "location": "Orlando, Florida", 
+                "name": "Fuego Pazzo", 
+                "tweets": 38912, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:23:53 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 34, 
+            "text": "Doha people, no one really assumed you were effected by the earthquake in Nepal, you know, being it a different place and all.", 
+            "user": {
+                "description": "A wannabe film-maker, writer for various newspapers and TV channels. #Arsenal fan. And a comedian for @SUCQatar", 
+                "favorite": null, 
+                "followers": 160, 
+                "image": "http://pbs.twimg.com/profile_images/546679025192558596/0FPtTZIP_normal.jpeg", 
+                "location": "Cereal Aisle - Supermarket", 
+                "name": "Amir The Awesome One", 
+                "tweets": 8390, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 8
+            }, 
+            "created_at": "Sat Apr 25 17:23:35 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake", 
+                "Delhi", 
+                "Kejriwal"
+            ], 
+            "sentiment": 26, 
+            "text": "RT @DrGarekar: #Nepal will reconstruct its damage from #earthquake in no time but #Delhi will remain reeling under mini Earthquakes,inducte\u2026", 
+            "user": {
+                "description": "UnStoppable !!!", 
+                "favorite": null, 
+                "followers": 731, 
+                "image": "http://pbs.twimg.com/profile_images/587176178508697600/G3jSn0ID_normal.jpg", 
+                "location": "", 
+                "name": "Sudhir Puthran", 
+                "tweets": 65098, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:23:31 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake"
+            ], 
+            "sentiment": 30, 
+            "text": "RT @RupeshPMP: Prayers 4 the safety of people's lives in Nepal &amp; India after the massive earthquake. #NepalEarthquake Helpline no: - http:/\u2026", 
+            "user": {
+                "description": "A human being, concerned about nature, my country, its people, its history, its wonderful rishis, alarmed about its corruption -wanting to help make it better.", 
+                "favorite": null, 
+                "followers": 108, 
+                "image": "http://pbs.twimg.com/profile_images/3390709326/bd522207609c13820b8b8b9fb8c38f7b_normal.jpeg", 
+                "location": "Bangalore, India", 
+                "name": "Sujata Srinath", 
+                "tweets": 6906, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 17:23:22 +0000 2015", 
+            "hashtags": [
+                "UN", 
+                "NepalQuakeRelief"
+            ], 
+            "sentiment": 54, 
+            "text": "RT @tw_bhav: Situation Report from #UN Humanitarian Coordinator in Nepal. http://t.co/rfpmtTLLvV #NepalQuakeRelief", 
+            "user": {
+                "description": "#MalikSistersAtNorthPole #SaveMyTwisha. Naked body of dirty soul, not the chotu of tea-stall.  Solo Rider #RIBS", 
+                "favorite": null, 
+                "followers": 2256, 
+                "image": "http://pbs.twimg.com/profile_images/591632621995593729/psZDhwk7_normal.jpg", 
+                "location": "Mewar, Kota, Madras, DiLli", 
+                "name": "Rahul Kumawat", 
+                "tweets": 114710, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:23:07 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 35, 
+            "text": "Earthquake in Nepal?! Oh no! Praying for everyone there! \ud83d\ude22", 
+            "user": {
+                "description": "(AH-chow) dob: 2/11, Christ-follower, musician-singer, Pinay, Torontonian, Angeleno, coffee-holic, geek-in-general, & a full-blown Anglophile.", 
+                "favorite": null, 
+                "followers": 222, 
+                "image": "http://pbs.twimg.com/profile_images/584903657654652928/CwDSTu3c_normal.jpg", 
+                "location": "So Cal ", 
+                "name": "Aura Aragon", 
+                "tweets": 24672, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 164
+            }, 
+            "created_at": "Sat Apr 25 17:22:34 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 2, 
+            "text": "RT @yamigautam: Such saw some shocking pics of the damage caused due to earthquake in Nepal.Sad to hear the no.of casualties.Prayers &amp;stren\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 0, 
+                "image": "http://pbs.twimg.com/profile_images/543980482065489920/mb9tTJj0_normal.jpeg", 
+                "location": "", 
+                "name": "Jasdeep Singh", 
+                "tweets": 18, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:21:30 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake"
+            ], 
+            "sentiment": 26, 
+            "text": "Prayers 4 the safety of people's lives in Nepal &amp; India after the massive earthquake. #NepalEarthquake Helpline no: - http://t.co/M5tSBTOFcV", 
+            "user": {
+                "description": "IT & Digital Strategist! Tweets/RTs are solely my own views.", 
+                "favorite": null, 
+                "followers": 1027, 
+                "image": "http://pbs.twimg.com/profile_images/589838979228422144/BO9LZt_u_normal.jpg", 
+                "location": "Atlanta, USA", 
+                "name": "Rupesh Kumar", 
+                "tweets": 1561, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 17:21:22 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 26, 
+            "text": "RT @ronakbear: Almost a thousand people died last night from an earthquake in Nepal. Multiple nations send aid immediately. No word from Am\u2026", 
+            "user": {
+                "description": "i think i should type more or less, i'm from da south #tightright", 
+                "favorite": null, 
+                "followers": 558, 
+                "image": "http://pbs.twimg.com/profile_images/550016737723183105/GBtQ7q39_normal.jpeg", 
+                "location": "Dallas, Tx", 
+                "name": "Internet Cialis ", 
+                "tweets": 10212, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:20:43 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 46, 
+            "text": "RT @TheParulSharma: Please !! God ! No earthquake!! Praying \ud83d\ude4f\ud83d\ude4f and hoping that everyone safe in Nepal !! #earthquake", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 5, 
+                "image": "http://pbs.twimg.com/profile_images/574944114472411136/Lt_V6tYz_normal.jpeg", 
+                "location": "", 
+                "name": "Rohit Singh", 
+                "tweets": 227, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 164
+            }, 
+            "created_at": "Sat Apr 25 17:20:30 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 2, 
+            "text": "RT @yamigautam: Such saw some shocking pics of the damage caused due to earthquake in Nepal.Sad to hear the no.of casualties.Prayers &amp;stren\u2026", 
+            "user": {
+                "description": "CA Final Student ICAI", 
+                "favorite": null, 
+                "followers": 68, 
+                "image": "http://pbs.twimg.com/profile_images/563972062587285504/-iVzCvvv_normal.jpeg", 
+                "location": "Kathmandu,Nepal", 
+                "name": "amit gupta", 
+                "tweets": 761, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:20:18 +0000 2015", 
+            "hashtags": [
+                "ExtremeRules"
+            ], 
+            "sentiment": 30, 
+            "text": "@WWE Help us more than 16 times earthquake in nepal we need help help help. No one left to watch #ExtremeRules", 
+            "user": {
+                "description": "\u0917\u092b \u0917\u093e\u092b \u0915\u094b \u0930\u093e\u091c\u093e \u0939\u0938\u093e\u0909\u0928 \u092e\u093e \u092a\u094b\u0916\u094d\u0924 \u091c\u094b\u0915\u0947\u0938 \u0915\u094b \u092d\u0923\u0921\u093e\u0930  \u0928\u0947\u0924\u093e  \u0915\u094b \u092c\u093f\u0930\u094b\u0927\u093f  \u0930\u093e\u0937\u094d\u091f\u094d\u0930  \u0915\u094b \u0939\u093f\u0930\u094b", 
+                "favorite": null, 
+                "followers": 91, 
+                "image": "http://pbs.twimg.com/profile_images/589428533836980224/74VI4_Vy_normal.jpg", 
+                "location": "\u0928\u0947\u092a\u093e\u0932", 
+                "name": "\u092b\u091f\u093e\u0939\u093e \u0915\u093e\u0928\u094d\u091b\u093e\u0947", 
+                "tweets": 833, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 17:19:41 +0000 2015", 
+            "hashtags": [
+                "UN", 
+                "NepalQuakeRelief"
+            ], 
+            "sentiment": 54, 
+            "text": "RT @tw_bhav: Situation Report from #UN Humanitarian Coordinator in Nepal. http://t.co/rfpmtTLLvV #NepalQuakeRelief", 
+            "user": {
+                "description": "Ignoto addetto stampa", 
+                "favorite": null, 
+                "followers": 88, 
+                "image": "http://pbs.twimg.com/profile_images/1668535158/image_normal.jpg", 
+                "location": "", 
+                "name": "maria costanza candi", 
+                "tweets": 961, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:19:19 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 14, 
+            "text": "@ndtv #earthquake in Nepal. Casualties in INdia as well... But no news from Uttarakhand though Pithoragarh is adjacent to Nepal. Strange???", 
+            "user": {
+                "description": "A civil engineer,took to reporting&writing .Passion fr trekking&nature shoot.focus Human rights &Environment.", 
+                "favorite": null, 
+                "followers": 283, 
+                "image": "http://pbs.twimg.com/profile_images/2102007861/hindi_normal_normal.jpg", 
+                "location": "", 
+                "name": "Prabhas Chandra", 
+                "tweets": 22751, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 10
+            }, 
+            "created_at": "Sat Apr 25 17:19:00 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake"
+            ], 
+            "sentiment": 30, 
+            "text": "RT @TheParulSharma: #NepalEarthquake Nepal and Northern India Kathmandu Ambulance &amp;Emergency Helpline no http://t.co/A18HZiJJlg http://t.co\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 5, 
+                "image": "http://pbs.twimg.com/profile_images/574944114472411136/Lt_V6tYz_normal.jpeg", 
+                "location": "", 
+                "name": "Rohit Singh", 
+                "tweets": 227, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 17:16:39 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 22, 
+            "text": "RT @RadChick4Cast: From #Nepal:  \"Internet is going on n off... Same case for telephone...No Electricity... No drinking water in my town...\u2026", 
+            "user": {
+                "description": "giornalista di @DonnaModerna, amo il cinema, la musica, le nuove tecnologie, mio figlio e il suo mondo. Ora sono anche su http://t.co/okQYylagAc", 
+                "favorite": null, 
+                "followers": 1079, 
+                "image": "http://pbs.twimg.com/profile_images/472121251834888192/BP9Hl_ok_normal.jpeg", 
+                "location": "", 
+                "name": "Isabella Fava", 
+                "tweets": 7608, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:16:02 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 2, 
+            "text": "Thoughts and condolences with all the #earthquake victims in Nepal.\nPraying there's no more death.", 
+            "user": {
+                "description": "straight forward, honest, self-conscious & obviously, proud of myself.", 
+                "favorite": null, 
+                "followers": 52, 
+                "image": "http://pbs.twimg.com/profile_images/523818013380706304/bLmtKrgU_normal.jpeg", 
+                "location": "India", 
+                "name": "Sourav Das", 
+                "tweets": 46, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 17:15:34 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 22, 
+            "text": "RT @KSThomasDC: After the earthquake this morning, the death toll in Nepal is rising at an incredible rate. 1,457 people, but no one's talk\u2026", 
+            "user": {
+                "description": "If you don't turn your life into a story, you just become a part of someone else's story.", 
+                "favorite": null, 
+                "followers": 117, 
+                "image": "http://pbs.twimg.com/profile_images/550002872516374528/shnYDx8P_normal.jpeg", 
+                "location": "", 
+                "name": "samgam", 
+                "tweets": 1427, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 2
+            }, 
+            "created_at": "Sat Apr 25 17:14:50 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "CNN", 
+                "msnbc", 
+                "fox"
+            ], 
+            "sentiment": 5, 
+            "text": "RT @DrRemoM: Woke up this morning to read about what is likely a devastating earthquake in #Nepal &amp; no coverage on #CNN #msnbc #fox = crap \u2026", 
+            "user": {
+                "description": "Co-Founder FlikStak. Entrepreneur, Investor, Student of Disruption.\nFounded Goldman Sachs Internet Research Franchise in 1994", 
+                "favorite": null, 
+                "followers": 17009, 
+                "image": "http://pbs.twimg.com/profile_images/3024463426/6fdd324a671ebf8f22d5c13bd5e4fe51_normal.jpeg", 
+                "location": "LAX SFO NYC", 
+                "name": "Michael Parekh", 
+                "tweets": 14929, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:13:20 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 46, 
+            "text": "RT @TheParulSharma: Please !! God ! No earthquake!! Praying \ud83d\ude4f\ud83d\ude4f and hoping that everyone safe in Nepal !! #earthquake", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 3, 
+                "image": "http://pbs.twimg.com/profile_images/574941017402568704/xWgYhlxb_normal.jpeg", 
+                "location": "", 
+                "name": "Monu Kumar", 
+                "tweets": 245, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:13:15 +0000 2015", 
+            "hashtags": [
+                "PrayForNepal"
+            ], 
+            "sentiment": 1, 
+            "text": "RT @paru_vivo: The earthquake in Nepal is so devastating. RIP to the deceased. I hope there's no more rise in the death toll. #PrayForNepal", 
+            "user": {
+                "description": "I love Art & kpop   my favourite kpop groups are Exo, big bang,bts,shinee,super junior and many more", 
+                "favorite": null, 
+                "followers": 52, 
+                "image": "http://pbs.twimg.com/profile_images/578686008167915520/nK6tOEVH_normal.jpeg", 
+                "location": "", 
+                "name": "Achu", 
+                "tweets": 233, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 17:12:16 +0000 2015", 
+            "hashtags": [
+                "UN", 
+                "NepalQuakeRelief"
+            ], 
+            "sentiment": 54, 
+            "text": "RT @tw_bhav: Situation Report from #UN Humanitarian Coordinator in Nepal. http://t.co/rfpmtTLLvV #NepalQuakeRelief", 
+            "user": {
+                "description": "Indian. \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 \u0c2d\u0c3e\u0c37\u0c3e\u0c2d\u0c3f\u0c2e\u0c3e\u0c28\u0c3f. Wannabe Lyricist ;). Micro Poetry in Telugu. Politics. Satire. #INcrisisrelief", 
+                "favorite": null, 
+                "followers": 531, 
+                "image": "http://pbs.twimg.com/profile_images/591793671940362240/CYCM3gob_normal.jpg", 
+                "location": "", 
+                "name": "vakkeli", 
+                "tweets": 9845, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 17:11:46 +0000 2015", 
+            "hashtags": [
+                "UN", 
+                "NepalQuakeRelief"
+            ], 
+            "sentiment": 49, 
+            "text": "Situation Report from #UN Humanitarian Coordinator in Nepal. http://t.co/rfpmtTLLvV #NepalQuakeRelief", 
+            "user": {
+                "description": "Nationality: Earth", 
+                "favorite": null, 
+                "followers": 2434, 
+                "image": "http://pbs.twimg.com/profile_images/582374437422411777/Ji9FmnzM_normal.jpg", 
+                "location": "", 
+                "name": "The Earthwoman", 
+                "tweets": 30494, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 72
+            }, 
+            "created_at": "Sat Apr 25 17:11:28 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 40, 
+            "text": "RT @NyBrit12: An earthquake killed over 900 people in Nepal and no one is talking about it. CNN would rather talk about Bruce Jenner. I'm g\u2026", 
+            "user": {
+                "description": "drake parody account #ucandobetter", 
+                "favorite": null, 
+                "followers": 62, 
+                "image": "http://pbs.twimg.com/profile_images/590727677427982336/GVh7vLli_normal.jpg", 
+                "location": "", 
+                "name": "burrito shawty", 
+                "tweets": 2717, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:11:00 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 21, 
+            "text": "Let's talk about the earthquake in Nepal. There are people dying over there and no one seems to give a crap about them.", 
+            "user": {
+                "description": "Together forever--never apart. Maybe in distance--but never in heart. \u2764\u270c\u2693", 
+                "favorite": null, 
+                "followers": 158, 
+                "image": "http://pbs.twimg.com/profile_images/560307767823441920/YM68yJjT_normal.jpeg", 
+                "location": "", 
+                "name": "katelyn  marie. \u270c", 
+                "tweets": 4500, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:10:47 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 25, 
+            "text": "RT @SalHernandez: Oh, no...More Than 1,000 People Killed In Major Earthquake In Nepal http://t.co/LZu4TrzWH5", 
+            "user": {
+                "description": "Journo. @reviewjournal assistant editor. #Nevada news. @aaja & @IRE_NICAR member. @ReveilleAlumni prez. #LSU fan. Hawaiian heart.", 
+                "favorite": null, 
+                "followers": 2154, 
+                "image": "http://pbs.twimg.com/profile_images/568227912201936897/00AkkBSd_normal.jpeg", 
+                "location": "Las Vegas", 
+                "name": "Adam Kealoha Causey", 
+                "tweets": 10980, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 72
+            }, 
+            "created_at": "Sat Apr 25 17:09:49 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 40, 
+            "text": "RT @NyBrit12: An earthquake killed over 900 people in Nepal and no one is talking about it. CNN would rather talk about Bruce Jenner. I'm g\u2026", 
+            "user": {
+                "description": "student workin wknds (& wkdays) in the city #liberalfeministkilljoy", 
+                "favorite": null, 
+                "followers": 315, 
+                "image": "http://pbs.twimg.com/profile_images/561329238603599872/QN3XEHrD_normal.jpeg", 
+                "location": "PDX - $eattle - Santo Domingo", 
+                "name": "Maddie Joy", 
+                "tweets": 6089, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:09:13 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 21, 
+            "text": "Oh, no...More Than 1,000 People Killed In Major Earthquake In Nepal http://t.co/LZu4TrzWH5", 
+            "user": {
+                "description": "Breaking news for @buzzfeednews in Los Angeles. Obsessed with crime, justice, java & burritos. Former @ocregister My work @ http://t.co/eyuvXfo46h", 
+                "favorite": null, 
+                "followers": 1604, 
+                "image": "http://pbs.twimg.com/profile_images/527114347605020672/eJWq-Hnw_normal.jpeg", 
+                "location": "Los Angeles", 
+                "name": "Salvador Hernandez", 
+                "tweets": 7249, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 12
+            }, 
+            "created_at": "Sat Apr 25 17:08:55 +0000 2015", 
+            "hashtags": [
+                "Bangladesh", 
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 31, 
+            "text": "RT @CP_Gang: So far no #Bangladesh Citizen's casualty reported in #Nepal #earthquake Embassy Hotlines +9779851039352, +9779808184014, +9779\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 81, 
+                "image": "http://pbs.twimg.com/profile_images/582865667944136704/hzcKGQ5F_normal.jpg", 
+                "location": "", 
+                "name": "Owhab Rintu", 
+                "tweets": 302, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:08:22 +0000 2015", 
+            "hashtags": [
+                "PrayForNepal"
+            ], 
+            "sentiment": 1, 
+            "text": "The earthquake in Nepal is so devastating. RIP to the deceased. I hope there's no more rise in the death toll. #PrayForNepal", 
+            "user": {
+                "description": "Can't seem to get out of the box.", 
+                "favorite": null, 
+                "followers": 132, 
+                "image": "http://pbs.twimg.com/profile_images/551145421326667776/UuBCEQnS_normal.jpeg", 
+                "location": "852", 
+                "name": "kyungsoojung-noonnie", 
+                "tweets": 22814, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 10
+            }, 
+            "created_at": "Sat Apr 25 17:08:11 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake"
+            ], 
+            "sentiment": 30, 
+            "text": "RT @TheParulSharma: #NepalEarthquake Nepal and Northern India Kathmandu Ambulance &amp;Emergency Helpline no http://t.co/A18HZiJJlg http://t.co\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 3, 
+                "image": "http://pbs.twimg.com/profile_images/574941017402568704/xWgYhlxb_normal.jpeg", 
+                "location": "", 
+                "name": "Monu Kumar", 
+                "tweets": 245, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:08:02 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 14, 
+            "text": "Nepal earthquake death toll nearing 1,500. It's 10:37 PM in Nepal, no water and electricity for people there.", 
+            "user": {
+                "description": "18. Iskolar ng Bayan, National Institute of Physics. #UPFight #NSD", 
+                "favorite": null, 
+                "followers": 481, 
+                "image": "http://pbs.twimg.com/profile_images/560945881348702208/Nd2coa4y_normal.jpeg", 
+                "location": "Pilipinas", 
+                "name": "Vince Sagum", 
+                "tweets": 31957, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 1, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:07:05 +0000 2015", 
+            "hashtags": [
+                "Nepal"
+            ], 
+            "sentiment": 29, 
+            "text": "Bruce Jenner is trending more than the devastating earthquake in #Nepal ... I have no words. This world, Jesus please come soon.", 
+            "user": {
+                "description": "Woman of God. Lover of baseball. featured Sports Voice Intern for Staance. Dancer. Lover of the arts.", 
+                "favorite": null, 
+                "followers": 250, 
+                "image": "http://pbs.twimg.com/profile_images/569744195485569024/_KrO61XS_normal.jpeg", 
+                "location": "The Bay Area ", 
+                "name": "Jamie Roman", 
+                "tweets": 4023, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:05:21 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 32, 
+            "text": "Terrible scenes in Nepal. Lovely people but most dwelling very primitive, thin walls and corrugated iron roofs. No chance in an earthquake", 
+            "user": {
+                "description": "Retired early to Cumbria!  Fell-walking, apprentice wild camper Photography, Wildlife, Tranmere Rovers. Married to Sian with two grown up sons", 
+                "favorite": null, 
+                "followers": 1594, 
+                "image": "http://pbs.twimg.com/profile_images/515880427265867776/2ooOUk8w_normal.png", 
+                "location": "Ings, Cumbria", 
+                "name": "Paul Byrne", 
+                "tweets": 18706, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 17:04:52 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 35, 
+            "text": "RT @KarNish_Fc: Nepal helpline no...I hope all r fine in India and Nepal! Even I felt d earthquake twice.. @nisharawal @_KaranMehra http://\u2026", 
+            "user": {
+                "description": "B'day 24-April.crazy die hard fan of @_karanmehra love his superb smile n cool n awsm style.his jodi\u300a\u2661\u300bwith @nisharawal is like they r cutest love birds ever\u2661\u2606\u2661", 
+                "favorite": null, 
+                "followers": 85, 
+                "image": "http://pbs.twimg.com/profile_images/585796620664479744/poNcYxMm_normal.jpg", 
+                "location": "Kapurthala, Punjab", 
+                "name": "\u2606\u2661chandangupta\u2661\u2606", 
+                "tweets": 1296, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 8
+            }, 
+            "created_at": "Sat Apr 25 17:04:33 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake", 
+                "Delhi", 
+                "Kejriwal"
+            ], 
+            "sentiment": 26, 
+            "text": "RT @DrGarekar: #Nepal will reconstruct its damage from #earthquake in no time but #Delhi will remain reeling under mini Earthquakes,inducte\u2026", 
+            "user": {
+                "description": "Designer, Entrepreneur, Fashion Commentator, Event Manager. Patron of KHADI(Hand spun, #ecofriendly #fabric) Writing a non fiction 'BUSINESS OF BEAUTY PAGEANT'.", 
+                "favorite": null, 
+                "followers": 637, 
+                "image": "http://pbs.twimg.com/profile_images/591730310158487554/cgLfdOPg_normal.jpg", 
+                "location": "Lucknow", 
+                "name": "Basant Rai", 
+                "tweets": 6651, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:03:21 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 46, 
+            "text": "RT @TheParulSharma: Please !! God ! No earthquake!! Praying \ud83d\ude4f\ud83d\ude4f and hoping that everyone safe in Nepal !! #earthquake", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 4, 
+                "image": "http://pbs.twimg.com/profile_images/574930507902812160/bmuNcexJ_normal.jpeg", 
+                "location": "", 
+                "name": "Mohit Nigam", 
+                "tweets": 211, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 218
+            }, 
+            "created_at": "Sat Apr 25 17:02:49 +0000 2015", 
+            "hashtags": [
+                "Earthquake"
+            ], 
+            "sentiment": 19, 
+            "text": "RT @damnhappyyy: 25/4/15 prayers and hope there are no casualty damages or losses from the #Earthquake.measuring 7.7 in nepal http://t.co/M\u2026", 
+            "user": {
+                "description": "#Still Discovering", 
+                "favorite": null, 
+                "followers": 51, 
+                "image": "http://pbs.twimg.com/profile_images/589761192693891072/TBpL4ma6_normal.jpg", 
+                "location": "Bangalore, India", 
+                "name": "Mani", 
+                "tweets": 1869, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 218
+            }, 
+            "created_at": "Sat Apr 25 17:02:24 +0000 2015", 
+            "hashtags": [
+                "Earthquake"
+            ], 
+            "sentiment": 19, 
+            "text": "RT @damnhappyyy: 25/4/15 prayers and hope there are no casualty damages or losses from the #Earthquake.measuring 7.7 in nepal http://t.co/M\u2026", 
+            "user": {
+                "description": "\u4eba\u9593\u306f\u5730\u7403\u306e\u764c\u3067\u3042\u308b\u3002", 
+                "favorite": null, 
+                "followers": 492, 
+                "image": "http://pbs.twimg.com/profile_images/591387939818459137/A3wqmVcB_normal.jpg", 
+                "location": "34", 
+                "name": "dana", 
+                "tweets": 91992, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 72
+            }, 
+            "created_at": "Sat Apr 25 17:02:14 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 40, 
+            "text": "RT @NyBrit12: An earthquake killed over 900 people in Nepal and no one is talking about it. CNN would rather talk about Bruce Jenner. I'm g\u2026", 
+            "user": {
+                "description": "Writer", 
+                "favorite": null, 
+                "followers": 89, 
+                "image": "http://pbs.twimg.com/profile_images/591688553052024832/JyT-O1HN_normal.jpg", 
+                "location": "city of sun ", 
+                "name": "ninz", 
+                "tweets": 271, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:01:48 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 54, 
+            "text": "RT @NYGreenMachine: Super Volcano in Chile, Super Earthquake in Nepal in the same week...this is no coincidence...the earth &amp; nature making\u2026", 
+            "user": {
+                "description": "Knicks and Raiders fan, also movie buff. Raised in San Francisco, CA but now reside in Newark, NJ. Check out my youtube page cmagana75, Istagram cmagana74!", 
+                "favorite": null, 
+                "followers": 76, 
+                "image": "http://pbs.twimg.com/profile_images/506904186433572864/slytRigZ_normal.jpeg", 
+                "location": "Daly City, CA ", 
+                "name": "Camilo Magana", 
+                "tweets": 2919, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 10
+            }, 
+            "created_at": "Sat Apr 25 17:01:21 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake"
+            ], 
+            "sentiment": 30, 
+            "text": "RT @TheParulSharma: #NepalEarthquake Nepal and Northern India Kathmandu Ambulance &amp;Emergency Helpline no http://t.co/A18HZiJJlg http://t.co\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 4, 
+                "image": "http://pbs.twimg.com/profile_images/574930507902812160/bmuNcexJ_normal.jpeg", 
+                "location": "", 
+                "name": "Mohit Nigam", 
+                "tweets": 211, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 17:00:21 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 49, 
+            "text": "@SenSanders dementiated persons priorities hey Nepal had earthquake. People live in tents in America no affordable housing ? What?", 
+            "user": {
+                "description": "loooking for honesty no lies", 
+                "favorite": null, 
+                "followers": 1074, 
+                "image": "http://pbs.twimg.com/profile_images/1986828405/49864_13732023_7951_n_normal.jpg", 
+                "location": "in your mind", 
+                "name": "LEE", 
+                "tweets": 49044, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1422
+            }, 
+            "created_at": "Sat Apr 25 16:59:55 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 72, 
+            "text": "RT @BBCWorld: Photos taken in Kathmandu an hour apart by @siobhanheanue. Latest on Nepal #earthquake: http://t.co/Z4YdhSgK0m http://t.co/rz\u2026", 
+            "user": {
+                "description": "Jack Daniels", 
+                "favorite": null, 
+                "followers": 191, 
+                "image": "http://pbs.twimg.com/profile_images/588750776962396161/K529kKoG_normal.jpg", 
+                "location": "", 
+                "name": "BRUNO", 
+                "tweets": 9454, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 16:59:00 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 22, 
+            "text": "RT @KSThomasDC: After the earthquake this morning, the death toll in Nepal is rising at an incredible rate. 1,457 people, but no one's talk\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 917, 
+                "image": "http://pbs.twimg.com/profile_images/579453923691405312/C79Dhi0F_normal.jpg", 
+                "location": "On the persuit of happiness ", 
+                "name": "YONC\u00c9 \u2728", 
+                "tweets": 52926, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 12
+            }, 
+            "created_at": "Sat Apr 25 16:58:39 +0000 2015", 
+            "hashtags": [
+                "Bangladesh", 
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 31, 
+            "text": "RT @CP_Gang: So far no #Bangladesh Citizen's casualty reported in #Nepal #earthquake Embassy Hotlines +9779851039352, +9779808184014, +9779\u2026", 
+            "user": {
+                "description": "Love to introduce myself as a singer,writer and actor.Been working as a social worker for last 6 years.A student of Business at the University of Chittagong.", 
+                "favorite": null, 
+                "followers": 1201, 
+                "image": "http://pbs.twimg.com/profile_images/589073664122834944/IsgVGPGA_normal.jpg", 
+                "location": "Chittagong", 
+                "name": "Shaan Ahsan", 
+                "tweets": 2253, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 204
+            }, 
+            "created_at": "Sat Apr 25 16:58:27 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 14, 
+            "text": "RT @AwesomityFun: thoughts and prayers to the victims of the devastating earthquake in nepal http://t.co/iQSmR7rOPK", 
+            "user": {
+                "description": "#Annevalentina", 
+                "favorite": null, 
+                "followers": 180, 
+                "image": "http://pbs.twimg.com/profile_images/592004404242288641/jlBeHl9s_normal.jpg", 
+                "location": "singapore//instagram @no.leee", 
+                "name": "m\u00ed", 
+                "tweets": 9805, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 5240
+            }, 
+            "created_at": "Sat Apr 25 16:57:43 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 45, 
+            "text": "RT @cnnbrk: At least 688 killed in Nepal earthquake, official says. http://t.co/E8Fh03tnSi http://t.co/kunrRmzMV2", 
+            "user": {
+                "description": "Jack Daniels", 
+                "favorite": null, 
+                "followers": 191, 
+                "image": "http://pbs.twimg.com/profile_images/588750776962396161/K529kKoG_normal.jpg", 
+                "location": "", 
+                "name": "BRUNO", 
+                "tweets": 9454, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 58
+            }, 
+            "created_at": "Sat Apr 25 16:56:02 +0000 2015", 
+            "hashtags": [
+                "lenskart", 
+                "NepalEarthquake"
+            ], 
+            "sentiment": 60, 
+            "text": "RT @IndianExpress: Blog: #lenskart took no time to apparently \u2018celebrate\u2019 #NepalEarthquake | http://t.co/GNuhcGBdRA | By @Debashis_sark htt\u2026", 
+            "user": {
+                "description": "\u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u092a\u0924\u094d\u0930\u0915\u093e\u0930, \u0938\u094d\u0935\u0924\u0902\u0924\u094d\u0930 \u0935\u093e\u0923\u0940, \u092d\u093e\u0930\u0924\u0940\u092f \u092e\u0942\u0932\u094d\u0930\u094d\u092f\u094b\u0902, \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u0914\u0930 \u0939\u093f\u0928\u094d\u0926\u0940 \u0915\u0947 \u0932\u093f\u090f \u0938\u092e\u0930\u094d\u092a\u093f\u0924", 
+                "favorite": null, 
+                "followers": 1196, 
+                "image": "http://pbs.twimg.com/profile_images/506303933556350978/lrDEralv_normal.jpeg", 
+                "location": "\u092e\u0941\u0902\u092c\u0908 ", 
+                "name": "C J ", 
+                "tweets": 39592, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 16:55:17 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 5, 
+            "text": "Our prayers go out to all those affected by the horrible earthquake in Nepal. No water, power or heavy machinery to free those in rubble.", 
+            "user": {
+                "description": "One stop shop for ALL your Real Estate needs. Small, Family, Woman Owned Business in Miami!", 
+                "favorite": null, 
+                "followers": 788, 
+                "image": "http://pbs.twimg.com/profile_images/443456600914026496/k7M4MnNd_normal.jpeg", 
+                "location": "North Bay Village, FL", 
+                "name": "Julie's Realty Miami", 
+                "tweets": 1123, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 10
+            }, 
+            "created_at": "Sat Apr 25 16:55:03 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 55, 
+            "text": "RT @chelsea_elisa: No worries. Only 1,500 dead so far in the Nepal earthquake. At least the green is looking good.  https://t.co/R1OmMCPrI4", 
+            "user": {
+                "description": "11/30/14", 
+                "favorite": null, 
+                "followers": 393, 
+                "image": "http://pbs.twimg.com/profile_images/589507489986646016/yGA7lZhd_normal.jpg", 
+                "location": "Columbus, OH", 
+                "name": "#BleedScarletAndGray", 
+                "tweets": 40880, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 10
+            }, 
+            "created_at": "Sat Apr 25 16:54:56 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 55, 
+            "text": "RT @chelsea_elisa: No worries. Only 1,500 dead so far in the Nepal earthquake. At least the green is looking good.  https://t.co/R1OmMCPrI4", 
+            "user": {
+                "description": "Green herb tree planter, Former Journalist, Social worker, Entrepreneur (ESHUTH MEDICINAL garden), 'EGSADS'bd- a non-profit org, Founder chairperson.", 
+                "favorite": null, 
+                "followers": 97, 
+                "image": "http://pbs.twimg.com/profile_images/588978551375810560/fpHwfPM__normal.jpg", 
+                "location": "Sylhet, Bangladesh", 
+                "name": "eshuth455", 
+                "tweets": 875, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 16:54:30 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 13, 
+            "text": "Situation in Nepal is difficult. Internet is down, TV isn't working and parts of Kathmandu have no electricity http://t.co/QCoDGtP6l9", 
+            "user": {
+                "description": "Sp\u00e9cialiste MU/EMP. BCP/PCA-PCO, Telecom, et b\u00e9n\u00e9vole pour le mouvement scout", 
+                "favorite": null, 
+                "followers": 299, 
+                "image": "http://pbs.twimg.com/profile_images/456111034458460160/clkZznCz_normal.jpeg", 
+                "location": "Laval, Qc", 
+                "name": "Michel Renaud", 
+                "tweets": 8259, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 16:52:48 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 48, 
+            "text": "RT @swayamabhishek: After this earthquake and continuously trending at no. 1 worldwide Hope @twitter may put Nepal in trendlist country :/", 
+            "user": {
+                "description": "Sindhi hu par Chindi nahi", 
+                "favorite": null, 
+                "followers": 225, 
+                "image": "http://pbs.twimg.com/profile_images/582956258862374912/0dS-eVIA_normal.jpg", 
+                "location": "Mumbai, India", 
+                "name": "RISHI JAGTIANI", 
+                "tweets": 373, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 16:52:33 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 17, 
+            "text": "Had no idea the earthquake in Nepal was that huge. Terrible  news", 
+            "user": {
+                "description": "colombian/american, i like to speak my mind on all things.habla ingles y espa\u00f1ol", 
+                "favorite": null, 
+                "followers": 131, 
+                "image": "http://pbs.twimg.com/profile_images/586585510094573568/T3Iqy_xM_normal.jpg", 
+                "location": "the world", 
+                "name": "anna ", 
+                "tweets": 926, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 0
+            }, 
+            "created_at": "Sat Apr 25 16:51:16 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 63, 
+            "text": "\u201c@AriannaTheAngel: Instead of talking about Bruce Jenner can we talk about the earthquake in Nepal :(\u201d\n\nhahaha no..?", 
+            "user": {
+                "description": "tweets that will kick your dick off / Yeah, right. So you can kill me and worship my stuffed corpse and you can wheel me out for a fuck. No thankyou.", 
+                "favorite": null, 
+                "followers": 1643, 
+                "image": "http://pbs.twimg.com/profile_images/378800000307017562/59eeba1ee8853f760f7b95ee72a135f4_normal.jpeg", 
+                "location": "", 
+                "name": "Grizz", 
+                "tweets": 38380, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 218
+            }, 
+            "created_at": "Sat Apr 25 16:50:52 +0000 2015", 
+            "hashtags": [
+                "Earthquake"
+            ], 
+            "sentiment": 19, 
+            "text": "RT @damnhappyyy: 25/4/15 prayers and hope there are no casualty damages or losses from the #Earthquake.measuring 7.7 in nepal http://t.co/M\u2026", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 377, 
+                "image": "http://pbs.twimg.com/profile_images/587389585270902784/mFUiYGu7_normal.jpg", 
+                "location": "", 
+                "name": "Shannon Wilson", 
+                "tweets": 1886, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:57:49 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 3, 
+            "text": "Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth controls. Mercy!", 
+            "user": {
+                "description": "Stunning, intelligent, kind, sweet, charming, witty, hilarious, friendly & Radio Jockey. Well enough about ME! How are you?", 
+                "favorite": null, 
+                "followers": 6598, 
+                "image": "http://pbs.twimg.com/profile_images/497977165720207360/O4rnuDSW_normal.jpeg", 
+                "location": "", 
+                "name": "Haroon Hayat ", 
+                "tweets": 14901, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 26, 
+                "retweet": 58
+            }, 
+            "created_at": "Sat Apr 25 10:52:34 +0000 2015", 
+            "hashtags": [
+                "lenskart", 
+                "NepalEarthquake"
+            ], 
+            "sentiment": 49, 
+            "text": "Blog: #lenskart took no time to apparently \u2018celebrate\u2019 #NepalEarthquake | http://t.co/GNuhcGBdRA | By @Debashis_sark http://t.co/VWvL4dHNOs", 
+            "user": {
+                "description": "The Indian Express brings to you latest news from India and the world, breaking round the clock. The 'Journalism of Courage' starts here.", 
+                "favorite": null, 
+                "followers": 836595, 
+                "image": "http://pbs.twimg.com/profile_images/1850193578/IE_Square_Logo_normal.png", 
+                "location": "India", 
+                "name": "The Indian Express", 
+                "tweets": 129450, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:57:49 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 3, 
+            "text": "Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth controls. Mercy!", 
+            "user": {
+                "description": "Stunning, intelligent, kind, sweet, charming, witty, hilarious, friendly & Radio Jockey. Well enough about ME! How are you?", 
+                "favorite": null, 
+                "followers": 6598, 
+                "image": "http://pbs.twimg.com/profile_images/497977165720207360/O4rnuDSW_normal.jpeg", 
+                "location": "", 
+                "name": "Haroon Hayat ", 
+                "tweets": 14901, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:57:49 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 3, 
+            "text": "Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth controls. Mercy!", 
+            "user": {
+                "description": "Stunning, intelligent, kind, sweet, charming, witty, hilarious, friendly & Radio Jockey. Well enough about ME! How are you?", 
+                "favorite": null, 
+                "followers": 6598, 
+                "image": "http://pbs.twimg.com/profile_images/497977165720207360/O4rnuDSW_normal.jpeg", 
+                "location": "", 
+                "name": "Haroon Hayat ", 
+                "tweets": 14901, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:57:49 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 3, 
+            "text": "Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth controls. Mercy!", 
+            "user": {
+                "description": "Stunning, intelligent, kind, sweet, charming, witty, hilarious, friendly & Radio Jockey. Well enough about ME! How are you?", 
+                "favorite": null, 
+                "followers": 6598, 
+                "image": "http://pbs.twimg.com/profile_images/497977165720207360/O4rnuDSW_normal.jpeg", 
+                "location": "", 
+                "name": "Haroon Hayat ", 
+                "tweets": 14901, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:57:49 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 3, 
+            "text": "Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth controls. Mercy!", 
+            "user": {
+                "description": "Stunning, intelligent, kind, sweet, charming, witty, hilarious, friendly & Radio Jockey. Well enough about ME! How are you?", 
+                "favorite": null, 
+                "followers": 6598, 
+                "image": "http://pbs.twimg.com/profile_images/497977165720207360/O4rnuDSW_normal.jpeg", 
+                "location": "", 
+                "name": "Haroon Hayat ", 
+                "tweets": 14901, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 17:57:49 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 3, 
+            "text": "Heartfelt condolences to families who lost their loved ones in #Nepal #earthquake A natural calamity that no one on earth controls. Mercy!", 
+            "user": {
+                "description": "Stunning, intelligent, kind, sweet, charming, witty, hilarious, friendly & Radio Jockey. Well enough about ME! How are you?", 
+                "favorite": null, 
+                "followers": 6598, 
+                "image": "http://pbs.twimg.com/profile_images/497977165720207360/O4rnuDSW_normal.jpeg", 
+                "location": "", 
+                "name": "Haroon Hayat ", 
+                "tweets": 14901, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 2, 
+                "retweet": 2
+            }, 
+            "created_at": "Sat Apr 25 17:53:48 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 49, 
+            "text": "Stop now and pray for #Nepal. If you were trapped in rubble after an #earthquake no doubt you would covet every prayer. May miracles abound!", 
+            "user": {
+                "description": "We are eradicating the world\u2019s water crisis by putting the solution in the hands of the people.", 
+                "favorite": null, 
+                "followers": 2857, 
+                "image": "http://pbs.twimg.com/profile_images/3420501011/2f1e622e6d65568e5994eec58de2ef46_normal.jpeg", 
+                "location": "", 
+                "name": "Water4", 
+                "tweets": 4057, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 2, 
+                "retweet": 2
+            }, 
+            "created_at": "Sat Apr 25 17:53:48 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 49, 
+            "text": "Stop now and pray for #Nepal. If you were trapped in rubble after an #earthquake no doubt you would covet every prayer. May miracles abound!", 
+            "user": {
+                "description": "We are eradicating the world\u2019s water crisis by putting the solution in the hands of the people.", 
+                "favorite": null, 
+                "followers": 2857, 
+                "image": "http://pbs.twimg.com/profile_images/3420501011/2f1e622e6d65568e5994eec58de2ef46_normal.jpeg", 
+                "location": "", 
+                "name": "Water4", 
+                "tweets": 4057, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 23, 
+                "retweet": 32
+            }, 
+            "created_at": "Sat Apr 25 10:17:26 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake", 
+                "earthquake", 
+                "Nepal"
+            ], 
+            "sentiment": 62, 
+            "text": "Keep in Mind,No One Is More Powerful Than Mother Nature\n#NepalEarthquake \n#earthquake \nStay safe #Nepal http://t.co/D5Ko8kMuWa", 
+            "user": {
+                "description": "Einer L\u00f6win ist egal,Was Antilopen hinter ihrem r\u00fccken reden.Researcher at Rothschild #Journalist #CNNiReport \u05d0\u05d5\u05b9\u05d4\u05b5\u05d1 \u05e9\u05b8\u05c1\u05dc\u05d5\u05b9\u05dd Lord Tyrian of his field.", 
+                "favorite": null, 
+                "followers": 5002, 
+                "image": "http://pbs.twimg.com/profile_images/590432401001680896/w8xnM8JO_normal.jpg", 
+                "location": "Germany-Pakistan-India", 
+                "name": "eSHEIKH", 
+                "tweets": 5182, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 16:27:36 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 69, 
+            "text": "Google launches Person Finder for Nepal quake @suhelseth  http://t.co/ctRVc814fB", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 35, 
+                "image": "http://pbs.twimg.com/profile_images/523541724690276352/gUXJonGg_normal.jpeg", 
+                "location": "mumbai", 
+                "name": "Kapil Gupta", 
+                "tweets": 1306, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 26, 
+                "retweet": 58
+            }, 
+            "created_at": "Sat Apr 25 10:52:34 +0000 2015", 
+            "hashtags": [
+                "lenskart", 
+                "NepalEarthquake"
+            ], 
+            "sentiment": 49, 
+            "text": "Blog: #lenskart took no time to apparently \u2018celebrate\u2019 #NepalEarthquake | http://t.co/GNuhcGBdRA | By @Debashis_sark http://t.co/VWvL4dHNOs", 
+            "user": {
+                "description": "The Indian Express brings to you latest news from India and the world, breaking round the clock. The 'Journalism of Courage' starts here.", 
+                "favorite": null, 
+                "followers": 836595, 
+                "image": "http://pbs.twimg.com/profile_images/1850193578/IE_Square_Logo_normal.png", 
+                "location": "India", 
+                "name": "The Indian Express", 
+                "tweets": 129450, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 14:25:27 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 22, 
+            "text": "Almost a thousand people died last night from an earthquake in Nepal. Multiple nations send aid immediately. No word from America.", 
+            "user": {
+                "description": "im the guy who got you in trouble for laughing in highschool. sorry.", 
+                "favorite": null, 
+                "followers": 1604, 
+                "image": "http://pbs.twimg.com/profile_images/559519948326719490/wApiDPAD_normal.jpeg", 
+                "location": "Dallas, Texas", 
+                "name": "Ronak", 
+                "tweets": 61400, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 1, 
+                "retweet": 2
+            }, 
+            "created_at": "Sat Apr 25 14:41:55 +0000 2015", 
+            "hashtags": [
+                "StayStrongNepal"
+            ], 
+            "sentiment": 10, 
+            "text": "The earthquake in Nepal is extremely tragic. Many people displaced, lives lost, and historic buildings no more. #StayStrongNepal", 
+            "user": {
+                "description": "Marketer @ http://t.co/wsNPiEAdO2 / http://t.co/PnvuKUdDRN. Hip-hop head, tech junkie, and photography fiend. #MegapixelGawd", 
+                "favorite": null, 
+                "followers": 308, 
+                "image": "http://pbs.twimg.com/profile_images/591406386992570369/MCrq7D98_normal.png", 
+                "location": "Ottawa, ON", 
+                "name": "Vineeth S.K.", 
+                "tweets": 21131, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 13, 
+                "retweet": 12
+            }, 
+            "created_at": "Sat Apr 25 16:10:41 +0000 2015", 
+            "hashtags": [
+                "Bangladesh", 
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 27, 
+            "text": "So far no #Bangladesh Citizen's casualty reported in #Nepal #earthquake Embassy Hotlines +9779851039352, +9779808184014, +9779808765071", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 862, 
+                "image": "http://pbs.twimg.com/profile_images/529871768966553600/V8Ojax-j_normal.jpeg", 
+                "location": "", 
+                "name": "CP Gang", 
+                "tweets": 318, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 6, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 07:07:57 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 41, 
+            "text": "Please !! God ! No earthquake!! Praying \ud83d\ude4f\ud83d\ude4f and hoping that everyone safe in Nepal !! #earthquake", 
+            "user": {
+                "description": "Hi! Love You All ! |Artist |ModelActor|YogaTeacher|Traveller|SpiritualSeeker|AnimalLover|Bollywood|Hollywood|Mumbai|GlobalCitizen|Earth|Osho|LoveLife|Punjabi", 
+                "favorite": null, 
+                "followers": 132777, 
+                "image": "http://pbs.twimg.com/profile_images/569043452579434496/h62fxmKI_normal.jpeg", 
+                "location": "Mumbai, India ", 
+                "name": "Parul Sharma", 
+                "tweets": 4675, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 14:25:27 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 22, 
+            "text": "Almost a thousand people died last night from an earthquake in Nepal. Multiple nations send aid immediately. No word from America.", 
+            "user": {
+                "description": "im the guy who got you in trouble for laughing in highschool. sorry.", 
+                "favorite": null, 
+                "followers": 1604, 
+                "image": "http://pbs.twimg.com/profile_images/559519948326719490/wApiDPAD_normal.jpeg", 
+                "location": "Dallas, Texas", 
+                "name": "Ronak", 
+                "tweets": 61400, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 14:25:27 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 22, 
+            "text": "Almost a thousand people died last night from an earthquake in Nepal. Multiple nations send aid immediately. No word from America.", 
+            "user": {
+                "description": "im the guy who got you in trouble for laughing in highschool. sorry.", 
+                "favorite": null, 
+                "followers": 1604, 
+                "image": "http://pbs.twimg.com/profile_images/559519948326719490/wApiDPAD_normal.jpeg", 
+                "location": "Dallas, Texas", 
+                "name": "Ronak", 
+                "tweets": 61400, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 13, 
+                "retweet": 12
+            }, 
+            "created_at": "Sat Apr 25 16:10:41 +0000 2015", 
+            "hashtags": [
+                "Bangladesh", 
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 27, 
+            "text": "So far no #Bangladesh Citizen's casualty reported in #Nepal #earthquake Embassy Hotlines +9779851039352, +9779808184014, +9779808765071", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 862, 
+                "image": "http://pbs.twimg.com/profile_images/529871768966553600/V8Ojax-j_normal.jpeg", 
+                "location": "", 
+                "name": "CP Gang", 
+                "tweets": 318, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 59, 
+                "retweet": 132
+            }, 
+            "created_at": "Sat Apr 25 07:00:15 +0000 2015", 
+            "hashtags": [
+                "earthquake", 
+                "Nepal"
+            ], 
+            "sentiment": 4, 
+            "text": "Terrible #earthquake in #Nepal. Aftershock felt in Lucknow - strongest in at least 40 years. No reports of any loss in city", 
+            "user": {
+                "description": "Your town. Your neighborhood. Your block. Covered for you by http://t.co/FI3bDncLBu", 
+                "favorite": null, 
+                "followers": 3052, 
+                "image": "http://pbs.twimg.com/profile_images/441899692343828481/rxOgnHSL_normal.jpeg", 
+                "location": "Lucknow", 
+                "name": "TOI Lucknow News", 
+                "tweets": 6500, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 280, 
+                "retweet": 164
+            }, 
+            "created_at": "Sat Apr 25 11:10:18 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 1, 
+            "text": "Such saw some shocking pics of the damage caused due to earthquake in Nepal.Sad to hear the no.of casualties.Prayers &amp;strength to families:(", 
+            "user": {
+                "description": "Actor.", 
+                "favorite": null, 
+                "followers": 557829, 
+                "image": "http://pbs.twimg.com/profile_images/574778150158139393/jwLzUMqY_normal.jpeg", 
+                "location": "", 
+                "name": "Yami Gautam", 
+                "tweets": 1180, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 280, 
+                "retweet": 164
+            }, 
+            "created_at": "Sat Apr 25 11:10:18 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 1, 
+            "text": "Such saw some shocking pics of the damage caused due to earthquake in Nepal.Sad to hear the no.of casualties.Prayers &amp;strength to families:(", 
+            "user": {
+                "description": "Actor.", 
+                "favorite": null, 
+                "followers": 557829, 
+                "image": "http://pbs.twimg.com/profile_images/574778150158139393/jwLzUMqY_normal.jpeg", 
+                "location": "", 
+                "name": "Yami Gautam", 
+                "tweets": 1180, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 146, 
+                "retweet": 218
+            }, 
+            "created_at": "Sat Apr 25 06:44:02 +0000 2015", 
+            "hashtags": [
+                "Earthquake"
+            ], 
+            "sentiment": 16, 
+            "text": "25/4/15 prayers and hope there are no casualty damages or losses from the #Earthquake.measuring 7.7 in nepal http://t.co/MeS7mr6I3M", 
+            "user": {
+                "description": "Stay strong, life is hard but believe that there's always a rainbow after every storm.", 
+                "favorite": null, 
+                "followers": 388678, 
+                "image": "http://pbs.twimg.com/profile_images/560383519604473856/XTdSQD5u_normal.jpeg", 
+                "location": "", 
+                "name": "Happiness is ", 
+                "tweets": 317, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 60, 
+                "retweet": 72
+            }, 
+            "created_at": "Sat Apr 25 14:16:03 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 30, 
+            "text": "An earthquake killed over 900 people in Nepal and no one is talking about it. CNN would rather talk about Bruce Jenner. I'm going to pray.", 
+            "user": {
+                "description": "20 \u2728 | Believer | Lam 3:24 \u2764\ufe0f | When do you hear a story about the Hero dying for the villian? \u26c5\ufe0f", 
+                "favorite": null, 
+                "followers": 479, 
+                "image": "http://pbs.twimg.com/profile_images/589927764763009024/8F28yZNL_normal.jpg", 
+                "location": "VA", 
+                "name": "brittany.", 
+                "tweets": 103798, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 08:06:08 +0000 2015", 
+            "hashtags": [
+                "Kathmandu", 
+                "Earthquake", 
+                "Nepal"
+            ], 
+            "sentiment": 39, 
+            "text": "As of now Pashupati temple complex intact in #Kathmandu no severe damages to temple due to #Earthquake in #Nepal http://t.co/lEMuiazBdD", 
+            "user": {
+                "description": "I have wandered all my life, and I have also traveled, I heed to my inner voice & follow my intution & heart, I live my life. Everything else is secondary.", 
+                "favorite": null, 
+                "followers": 97, 
+                "image": "http://pbs.twimg.com/profile_images/455626918486745088/vBkgRkce_normal.jpeg", 
+                "location": "Bengaluru", 
+                "name": "Rajesh Shenoy", 
+                "tweets": 488, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 7, 
+                "retweet": 8
+            }, 
+            "created_at": "Sat Apr 25 16:22:38 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake", 
+                "Delhi", 
+                "Kejriwal"
+            ], 
+            "sentiment": 28, 
+            "text": "#Nepal will reconstruct its damage from #earthquake in no time but #Delhi will remain reeling under mini Earthquakes,inducted by #Kejriwal", 
+            "user": {
+                "description": "physician,M.D(Medicine),owns clinic....but practicing more on humorous nature of humanity,rather dead earnestly!", 
+                "favorite": null, 
+                "followers": 43358, 
+                "image": "http://pbs.twimg.com/profile_images/588368609476415489/ACqe02WS_normal.jpg", 
+                "location": "khetrinagar Rajasthan India", 
+                "name": "Ashok Garekar", 
+                "tweets": 141738, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:21:30 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake"
+            ], 
+            "sentiment": 26, 
+            "text": "Prayers 4 the safety of people's lives in Nepal &amp; India after the massive earthquake. #NepalEarthquake Helpline no: - http://t.co/M5tSBTOFcV", 
+            "user": {
+                "description": "IT & Digital Strategist! Tweets/RTs are solely my own views.", 
+                "favorite": null, 
+                "followers": 1027, 
+                "image": "http://pbs.twimg.com/profile_images/589838979228422144/BO9LZt_u_normal.jpg", 
+                "location": "Atlanta, USA", 
+                "name": "Rupesh Kumar", 
+                "tweets": 1561, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 17:11:46 +0000 2015", 
+            "hashtags": [
+                "UN", 
+                "NepalQuakeRelief"
+            ], 
+            "sentiment": 49, 
+            "text": "Situation Report from #UN Humanitarian Coordinator in Nepal. http://t.co/rfpmtTLLvV #NepalQuakeRelief", 
+            "user": {
+                "description": "Nationality: Earth", 
+                "favorite": null, 
+                "followers": 2434, 
+                "image": "http://pbs.twimg.com/profile_images/582374437422411777/Ji9FmnzM_normal.jpg", 
+                "location": "", 
+                "name": "The Earthwoman", 
+                "tweets": 30494, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 280, 
+                "retweet": 164
+            }, 
+            "created_at": "Sat Apr 25 11:10:18 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 1, 
+            "text": "Such saw some shocking pics of the damage caused due to earthquake in Nepal.Sad to hear the no.of casualties.Prayers &amp;strength to families:(", 
+            "user": {
+                "description": "Actor.", 
+                "favorite": null, 
+                "followers": 557829, 
+                "image": "http://pbs.twimg.com/profile_images/574778150158139393/jwLzUMqY_normal.jpeg", 
+                "location": "", 
+                "name": "Yami Gautam", 
+                "tweets": 1180, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 4, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 14:25:27 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 22, 
+            "text": "Almost a thousand people died last night from an earthquake in Nepal. Multiple nations send aid immediately. No word from America.", 
+            "user": {
+                "description": "im the guy who got you in trouble for laughing in highschool. sorry.", 
+                "favorite": null, 
+                "followers": 1604, 
+                "image": "http://pbs.twimg.com/profile_images/559519948326719490/wApiDPAD_normal.jpeg", 
+                "location": "Dallas, Texas", 
+                "name": "Ronak", 
+                "tweets": 61400, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 6, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 07:07:57 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 41, 
+            "text": "Please !! God ! No earthquake!! Praying \ud83d\ude4f\ud83d\ude4f and hoping that everyone safe in Nepal !! #earthquake", 
+            "user": {
+                "description": "Hi! Love You All ! |Artist |ModelActor|YogaTeacher|Traveller|SpiritualSeeker|AnimalLover|Bollywood|Hollywood|Mumbai|GlobalCitizen|Earth|Osho|LoveLife|Punjabi", 
+                "favorite": null, 
+                "followers": 132777, 
+                "image": "http://pbs.twimg.com/profile_images/569043452579434496/h62fxmKI_normal.jpeg", 
+                "location": "Mumbai, India ", 
+                "name": "Parul Sharma", 
+                "tweets": 4675, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 280, 
+                "retweet": 164
+            }, 
+            "created_at": "Sat Apr 25 11:10:18 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 1, 
+            "text": "Such saw some shocking pics of the damage caused due to earthquake in Nepal.Sad to hear the no.of casualties.Prayers &amp;strength to families:(", 
+            "user": {
+                "description": "Actor.", 
+                "favorite": null, 
+                "followers": 557829, 
+                "image": "http://pbs.twimg.com/profile_images/574778150158139393/jwLzUMqY_normal.jpeg", 
+                "location": "", 
+                "name": "Yami Gautam", 
+                "tweets": 1180, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 17:11:46 +0000 2015", 
+            "hashtags": [
+                "UN", 
+                "NepalQuakeRelief"
+            ], 
+            "sentiment": 49, 
+            "text": "Situation Report from #UN Humanitarian Coordinator in Nepal. http://t.co/rfpmtTLLvV #NepalQuakeRelief", 
+            "user": {
+                "description": "Nationality: Earth", 
+                "favorite": null, 
+                "followers": 2434, 
+                "image": "http://pbs.twimg.com/profile_images/582374437422411777/Ji9FmnzM_normal.jpg", 
+                "location": "", 
+                "name": "The Earthwoman", 
+                "tweets": 30494, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 8, 
+                "retweet": 10
+            }, 
+            "created_at": "Sat Apr 25 09:28:33 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake"
+            ], 
+            "sentiment": 26, 
+            "text": "#NepalEarthquake Nepal and Northern India Kathmandu Ambulance &amp;Emergency Helpline no http://t.co/A18HZiJJlg http://t.co/IgaJnrCF8x @NSaina", 
+            "user": {
+                "description": "Hi! Love You All ! |Artist |ModelActor|YogaTeacher|Traveller|SpiritualSeeker|AnimalLover|Bollywood|Hollywood|Mumbai|GlobalCitizen|Earth|Osho|LoveLife|Punjabi", 
+                "favorite": null, 
+                "followers": 132777, 
+                "image": "http://pbs.twimg.com/profile_images/569043452579434496/h62fxmKI_normal.jpeg", 
+                "location": "Mumbai, India ", 
+                "name": "Parul Sharma", 
+                "tweets": 4675, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 2, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 15:28:53 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 17, 
+            "text": "From #Nepal:  \"Internet is going on n off... Same case for telephone...No Electricity... No drinking water in my town...\" #earthquake", 
+            "user": {
+                "description": "Founder & Host of Nuked Radio ~ Tracking weather, sickness, mutations, birth defects & airline anomalies post Fukushima (aka the #Wigner Effect)", 
+                "favorite": null, 
+                "followers": 1690, 
+                "image": "http://pbs.twimg.com/profile_images/531906996685910016/Orh4S9Fu_normal.jpeg", 
+                "location": "Fermi 2 evac zone ", 
+                "name": "Christina Consolo", 
+                "tweets": 20576, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 2, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 16:34:07 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 23, 
+            "text": "After the earthquake this morning, the death toll in Nepal is rising at an incredible rate. 1,457 people, but no one's talking about it...", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 40, 
+                "image": "http://pbs.twimg.com/profile_images/590972260955095040/23fAuWO5_normal.jpg", 
+                "location": "", 
+                "name": "Krysten Thomas", 
+                "tweets": 22, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 2
+            }, 
+            "created_at": "Sat Apr 25 13:40:42 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "CNN", 
+                "msnbc", 
+                "fox"
+            ], 
+            "sentiment": 3, 
+            "text": "Woke up this morning to read about what is likely a devastating earthquake in #Nepal &amp; no coverage on #CNN #msnbc #fox = crap news channels", 
+            "user": {
+                "description": "Surgeon, Inventor, Entrepreneur, Artist, Kitesurfer, CrossFit, RedSox/Pats Fan, Dem, Cancer survivor, Peace Justice & Conflict Resolution. RT not endorsement", 
+                "favorite": null, 
+                "followers": 625, 
+                "image": "http://pbs.twimg.com/profile_images/1760575567/Profile_Picture_of_Me_normal.jpg", 
+                "location": "Dover, DE", 
+                "name": "Remo M. Qajar, M.D.", 
+                "tweets": 2850, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 6, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 07:07:57 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 41, 
+            "text": "Please !! God ! No earthquake!! Praying \ud83d\ude4f\ud83d\ude4f and hoping that everyone safe in Nepal !! #earthquake", 
+            "user": {
+                "description": "Hi! Love You All ! |Artist |ModelActor|YogaTeacher|Traveller|SpiritualSeeker|AnimalLover|Bollywood|Hollywood|Mumbai|GlobalCitizen|Earth|Osho|LoveLife|Punjabi", 
+                "favorite": null, 
+                "followers": 132777, 
+                "image": "http://pbs.twimg.com/profile_images/569043452579434496/h62fxmKI_normal.jpeg", 
+                "location": "Mumbai, India ", 
+                "name": "Parul Sharma", 
+                "tweets": 4675, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:08:22 +0000 2015", 
+            "hashtags": [
+                "PrayForNepal"
+            ], 
+            "sentiment": 1, 
+            "text": "The earthquake in Nepal is so devastating. RIP to the deceased. I hope there's no more rise in the death toll. #PrayForNepal", 
+            "user": {
+                "description": "Can't seem to get out of the box.", 
+                "favorite": null, 
+                "followers": 132, 
+                "image": "http://pbs.twimg.com/profile_images/551145421326667776/UuBCEQnS_normal.jpeg", 
+                "location": "852", 
+                "name": "kyungsoojung-noonnie", 
+                "tweets": 22814, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 17:11:46 +0000 2015", 
+            "hashtags": [
+                "UN", 
+                "NepalQuakeRelief"
+            ], 
+            "sentiment": 49, 
+            "text": "Situation Report from #UN Humanitarian Coordinator in Nepal. http://t.co/rfpmtTLLvV #NepalQuakeRelief", 
+            "user": {
+                "description": "Nationality: Earth", 
+                "favorite": null, 
+                "followers": 2434, 
+                "image": "http://pbs.twimg.com/profile_images/582374437422411777/Ji9FmnzM_normal.jpg", 
+                "location": "", 
+                "name": "The Earthwoman", 
+                "tweets": 30494, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 60, 
+                "retweet": 72
+            }, 
+            "created_at": "Sat Apr 25 14:16:03 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 30, 
+            "text": "An earthquake killed over 900 people in Nepal and no one is talking about it. CNN would rather talk about Bruce Jenner. I'm going to pray.", 
+            "user": {
+                "description": "20 \u2728 | Believer | Lam 3:24 \u2764\ufe0f | When do you hear a story about the Hero dying for the villian? \u26c5\ufe0f", 
+                "favorite": null, 
+                "followers": 479, 
+                "image": "http://pbs.twimg.com/profile_images/589927764763009024/8F28yZNL_normal.jpg", 
+                "location": "VA", 
+                "name": "brittany.", 
+                "tweets": 103798, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 17:09:13 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 21, 
+            "text": "Oh, no...More Than 1,000 People Killed In Major Earthquake In Nepal http://t.co/LZu4TrzWH5", 
+            "user": {
+                "description": "Breaking news for @buzzfeednews in Los Angeles. Obsessed with crime, justice, java & burritos. Former @ocregister My work @ http://t.co/eyuvXfo46h", 
+                "favorite": null, 
+                "followers": 1604, 
+                "image": "http://pbs.twimg.com/profile_images/527114347605020672/eJWq-Hnw_normal.jpeg", 
+                "location": "Los Angeles", 
+                "name": "Salvador Hernandez", 
+                "tweets": 7249, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 60, 
+                "retweet": 72
+            }, 
+            "created_at": "Sat Apr 25 14:16:03 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 30, 
+            "text": "An earthquake killed over 900 people in Nepal and no one is talking about it. CNN would rather talk about Bruce Jenner. I'm going to pray.", 
+            "user": {
+                "description": "20 \u2728 | Believer | Lam 3:24 \u2764\ufe0f | When do you hear a story about the Hero dying for the villian? \u26c5\ufe0f", 
+                "favorite": null, 
+                "followers": 479, 
+                "image": "http://pbs.twimg.com/profile_images/589927764763009024/8F28yZNL_normal.jpg", 
+                "location": "VA", 
+                "name": "brittany.", 
+                "tweets": 103798, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 13, 
+                "retweet": 12
+            }, 
+            "created_at": "Sat Apr 25 16:10:41 +0000 2015", 
+            "hashtags": [
+                "Bangladesh", 
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 27, 
+            "text": "So far no #Bangladesh Citizen's casualty reported in #Nepal #earthquake Embassy Hotlines +9779851039352, +9779808184014, +9779808765071", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 862, 
+                "image": "http://pbs.twimg.com/profile_images/529871768966553600/V8Ojax-j_normal.jpeg", 
+                "location": "", 
+                "name": "CP Gang", 
+                "tweets": 318, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 8, 
+                "retweet": 10
+            }, 
+            "created_at": "Sat Apr 25 09:28:33 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake"
+            ], 
+            "sentiment": 26, 
+            "text": "#NepalEarthquake Nepal and Northern India Kathmandu Ambulance &amp;Emergency Helpline no http://t.co/A18HZiJJlg http://t.co/IgaJnrCF8x @NSaina", 
+            "user": {
+                "description": "Hi! Love You All ! |Artist |ModelActor|YogaTeacher|Traveller|SpiritualSeeker|AnimalLover|Bollywood|Hollywood|Mumbai|GlobalCitizen|Earth|Osho|LoveLife|Punjabi", 
+                "favorite": null, 
+                "followers": 132777, 
+                "image": "http://pbs.twimg.com/profile_images/569043452579434496/h62fxmKI_normal.jpeg", 
+                "location": "Mumbai, India ", 
+                "name": "Parul Sharma", 
+                "tweets": 4675, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 5, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 15:11:24 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 30, 
+            "text": "Nepal helpline no...I hope all r fine in India and Nepal! Even I felt d earthquake twice.. @nisharawal @_KaranMehra http://t.co/sjFH6Vk7bK", 
+            "user": {
+                "description": "All d updates about NISHA RAWAL MEHRA & KARAN MEHRA...follow real karan mehra at @_KaranMehra and real Nisha Rawal at @nisharawal !!!!!Both follow us too!!", 
+                "favorite": null, 
+                "followers": 462, 
+                "image": "http://pbs.twimg.com/profile_images/537144999356268544/YEhXaPLS_normal.jpeg", 
+                "location": "Jaipur, India", 
+                "name": "Karnish FC", 
+                "tweets": 5984, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 7, 
+                "retweet": 8
+            }, 
+            "created_at": "Sat Apr 25 16:22:38 +0000 2015", 
+            "hashtags": [
+                "Nepal", 
+                "earthquake", 
+                "Delhi", 
+                "Kejriwal"
+            ], 
+            "sentiment": 28, 
+            "text": "#Nepal will reconstruct its damage from #earthquake in no time but #Delhi will remain reeling under mini Earthquakes,inducted by #Kejriwal", 
+            "user": {
+                "description": "physician,M.D(Medicine),owns clinic....but practicing more on humorous nature of humanity,rather dead earnestly!", 
+                "favorite": null, 
+                "followers": 43358, 
+                "image": "http://pbs.twimg.com/profile_images/588368609476415489/ACqe02WS_normal.jpg", 
+                "location": "khetrinagar Rajasthan India", 
+                "name": "Ashok Garekar", 
+                "tweets": 141738, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 6, 
+                "retweet": 7
+            }, 
+            "created_at": "Sat Apr 25 07:07:57 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 41, 
+            "text": "Please !! God ! No earthquake!! Praying \ud83d\ude4f\ud83d\ude4f and hoping that everyone safe in Nepal !! #earthquake", 
+            "user": {
+                "description": "Hi! Love You All ! |Artist |ModelActor|YogaTeacher|Traveller|SpiritualSeeker|AnimalLover|Bollywood|Hollywood|Mumbai|GlobalCitizen|Earth|Osho|LoveLife|Punjabi", 
+                "favorite": null, 
+                "followers": 132777, 
+                "image": "http://pbs.twimg.com/profile_images/569043452579434496/h62fxmKI_normal.jpeg", 
+                "location": "Mumbai, India ", 
+                "name": "Parul Sharma", 
+                "tweets": 4675, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 146, 
+                "retweet": 218
+            }, 
+            "created_at": "Sat Apr 25 06:44:02 +0000 2015", 
+            "hashtags": [
+                "Earthquake"
+            ], 
+            "sentiment": 16, 
+            "text": "25/4/15 prayers and hope there are no casualty damages or losses from the #Earthquake.measuring 7.7 in nepal http://t.co/MeS7mr6I3M", 
+            "user": {
+                "description": "Stay strong, life is hard but believe that there's always a rainbow after every storm.", 
+                "favorite": null, 
+                "followers": 388678, 
+                "image": "http://pbs.twimg.com/profile_images/560383519604473856/XTdSQD5u_normal.jpeg", 
+                "location": "", 
+                "name": "Happiness is ", 
+                "tweets": 317, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 146, 
+                "retweet": 218
+            }, 
+            "created_at": "Sat Apr 25 06:44:02 +0000 2015", 
+            "hashtags": [
+                "Earthquake"
+            ], 
+            "sentiment": 16, 
+            "text": "25/4/15 prayers and hope there are no casualty damages or losses from the #Earthquake.measuring 7.7 in nepal http://t.co/MeS7mr6I3M", 
+            "user": {
+                "description": "Stay strong, life is hard but believe that there's always a rainbow after every storm.", 
+                "favorite": null, 
+                "followers": 388678, 
+                "image": "http://pbs.twimg.com/profile_images/560383519604473856/XTdSQD5u_normal.jpeg", 
+                "location": "", 
+                "name": "Happiness is ", 
+                "tweets": 317, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 60, 
+                "retweet": 72
+            }, 
+            "created_at": "Sat Apr 25 14:16:03 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 30, 
+            "text": "An earthquake killed over 900 people in Nepal and no one is talking about it. CNN would rather talk about Bruce Jenner. I'm going to pray.", 
+            "user": {
+                "description": "20 \u2728 | Believer | Lam 3:24 \u2764\ufe0f | When do you hear a story about the Hero dying for the villian? \u26c5\ufe0f", 
+                "favorite": null, 
+                "followers": 479, 
+                "image": "http://pbs.twimg.com/profile_images/589927764763009024/8F28yZNL_normal.jpg", 
+                "location": "VA", 
+                "name": "brittany.", 
+                "tweets": 103798, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 1
+            }, 
+            "created_at": "Sat Apr 25 15:55:33 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 43, 
+            "text": "Super Volcano in Chile, Super Earthquake in Nepal in the same week...this is no coincidence...the earth &amp; nature making massive changes.", 
+            "user": {
+                "description": "Video specialist; Love sports; big NFL fan even bigger Jets Fan; Big Knicks fan, love music, love films, play tennis, bike, and swim, during my free time.", 
+                "favorite": null, 
+                "followers": 1745, 
+                "image": "http://pbs.twimg.com/profile_images/550697334993330176/MwbskwaF_normal.jpeg", 
+                "location": "EVERYWHERE ", 
+                "name": "Jim ", 
+                "tweets": 130976, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 8, 
+                "retweet": 10
+            }, 
+            "created_at": "Sat Apr 25 09:28:33 +0000 2015", 
+            "hashtags": [
+                "NepalEarthquake"
+            ], 
+            "sentiment": 26, 
+            "text": "#NepalEarthquake Nepal and Northern India Kathmandu Ambulance &amp;Emergency Helpline no http://t.co/A18HZiJJlg http://t.co/IgaJnrCF8x @NSaina", 
+            "user": {
+                "description": "Hi! Love You All ! |Artist |ModelActor|YogaTeacher|Traveller|SpiritualSeeker|AnimalLover|Bollywood|Hollywood|Mumbai|GlobalCitizen|Earth|Osho|LoveLife|Punjabi", 
+                "favorite": null, 
+                "followers": 132777, 
+                "image": "http://pbs.twimg.com/profile_images/569043452579434496/h62fxmKI_normal.jpeg", 
+                "location": "Mumbai, India ", 
+                "name": "Parul Sharma", 
+                "tweets": 4675, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 379, 
+                "retweet": 1422
+            }, 
+            "created_at": "Sat Apr 25 12:25:03 +0000 2015", 
+            "hashtags": [
+                "earthquake"
+            ], 
+            "sentiment": 58, 
+            "text": "Photos taken in Kathmandu an hour apart by @siobhanheanue. Latest on Nepal #earthquake: http://t.co/Z4YdhSgK0m http://t.co/rzBKM7EXyg", 
+            "user": {
+                "description": "World News, features and analysis (http://t.co/JnU7o4nQJx). For UK news, follow @BBCNews. For breaking news, follow @BBCBreaking. Latest sport news @BBCSport.", 
+                "favorite": null, 
+                "followers": 9722766, 
+                "image": "http://pbs.twimg.com/profile_images/522359986324643842/QVNpxIrk_normal.jpeg", 
+                "location": "London, UK", 
+                "name": "BBC News (World)", 
+                "tweets": 199554, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 2, 
+                "retweet": 9
+            }, 
+            "created_at": "Sat Apr 25 16:34:07 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 23, 
+            "text": "After the earthquake this morning, the death toll in Nepal is rising at an incredible rate. 1,457 people, but no one's talking about it...", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 40, 
+                "image": "http://pbs.twimg.com/profile_images/590972260955095040/23fAuWO5_normal.jpg", 
+                "location": "", 
+                "name": "Krysten Thomas", 
+                "tweets": 22, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 13, 
+                "retweet": 12
+            }, 
+            "created_at": "Sat Apr 25 16:10:41 +0000 2015", 
+            "hashtags": [
+                "Bangladesh", 
+                "Nepal", 
+                "earthquake"
+            ], 
+            "sentiment": 27, 
+            "text": "So far no #Bangladesh Citizen's casualty reported in #Nepal #earthquake Embassy Hotlines +9779851039352, +9779808184014, +9779808765071", 
+            "user": {
+                "description": "", 
+                "favorite": null, 
+                "followers": 862, 
+                "image": "http://pbs.twimg.com/profile_images/529871768966553600/V8Ojax-j_normal.jpeg", 
+                "location": "", 
+                "name": "CP Gang", 
+                "tweets": 318, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 154, 
+                "retweet": 204
+            }, 
+            "created_at": "Sat Apr 25 16:53:36 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 11, 
+            "text": "thoughts and prayers to the victims of the devastating earthquake in nepal http://t.co/iQSmR7rOPK", 
+            "user": {
+                "description": "Follow us for the most relatable facts about students and school!", 
+                "favorite": null, 
+                "followers": 449808, 
+                "image": "http://pbs.twimg.com/profile_images/582473460317700096/1urPW_MQ_normal.png", 
+                "location": "Worldwide", 
+                "name": "Students Problems", 
+                "tweets": 30276, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 1767, 
+                "retweet": 5240
+            }, 
+            "created_at": "Sat Apr 25 12:27:05 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 39, 
+            "text": "At least 688 killed in Nepal earthquake, official says. http://t.co/E8Fh03tnSi http://t.co/kunrRmzMV2", 
+            "user": {
+                "description": "Breaking news from reporters and editors on the CNN Digital news team. Now 26M strong. Check @cnn for all things CNN, breaking and more.", 
+                "favorite": null, 
+                "followers": 26218476, 
+                "image": "http://pbs.twimg.com/profile_images/550063386914852865/4JHr5H_Y_normal.jpeg", 
+                "location": "Everywhere", 
+                "name": "CNN Breaking News", 
+                "tweets": 39509, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 26, 
+                "retweet": 58
+            }, 
+            "created_at": "Sat Apr 25 10:52:34 +0000 2015", 
+            "hashtags": [
+                "lenskart", 
+                "NepalEarthquake"
+            ], 
+            "sentiment": 49, 
+            "text": "Blog: #lenskart took no time to apparently \u2018celebrate\u2019 #NepalEarthquake | http://t.co/GNuhcGBdRA | By @Debashis_sark http://t.co/VWvL4dHNOs", 
+            "user": {
+                "description": "The Indian Express brings to you latest news from India and the world, breaking round the clock. The 'Journalism of Courage' starts here.", 
+                "favorite": null, 
+                "followers": 836595, 
+                "image": "http://pbs.twimg.com/profile_images/1850193578/IE_Square_Logo_normal.png", 
+                "location": "India", 
+                "name": "The Indian Express", 
+                "tweets": 129450, 
+                "verified": true
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 14, 
+                "retweet": 10
+            }, 
+            "created_at": "Sat Apr 25 16:35:38 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 50, 
+            "text": "No worries. Only 1,500 dead so far in the Nepal earthquake. At least the green is looking good.  https://t.co/R1OmMCPrI4", 
+            "user": {
+                "description": "I don't have daddy issues so I can't be on an MTV Reality Show OR occupy Wall Street. Spoiled srat AF University of Wisconsin grad. Grad student.", 
+                "favorite": null, 
+                "followers": 12088, 
+                "image": "http://pbs.twimg.com/profile_images/591989652967534592/HyCZK9w0_normal.jpg", 
+                "location": "in a vat of cheese curds", 
+                "name": "chels - queso queen", 
+                "tweets": 9920, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 14, 
+                "retweet": 10
+            }, 
+            "created_at": "Sat Apr 25 16:35:38 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 50, 
+            "text": "No worries. Only 1,500 dead so far in the Nepal earthquake. At least the green is looking good.  https://t.co/R1OmMCPrI4", 
+            "user": {
+                "description": "I don't have daddy issues so I can't be on an MTV Reality Show OR occupy Wall Street. Spoiled srat AF University of Wisconsin grad. Grad student.", 
+                "favorite": null, 
+                "followers": 12088, 
+                "image": "http://pbs.twimg.com/profile_images/591989652967534592/HyCZK9w0_normal.jpg", 
+                "location": "in a vat of cheese curds", 
+                "name": "chels - queso queen", 
+                "tweets": 9920, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 0, 
+                "retweet": 3
+            }, 
+            "created_at": "Sat Apr 25 16:19:24 +0000 2015", 
+            "hashtags": [], 
+            "sentiment": 43, 
+            "text": "After this earthquake and continuously trending at no. 1 worldwide Hope @twitter may put Nepal in trendlist country :/", 
+            "user": {
+                "description": "#TrueKapilian #Directioner @KapilSharmak9 @OneDirection fan #Respect.. followed by @kikusharda CNWK Sat & Sun @10 PM", 
+                "favorite": null, 
+                "followers": 1271, 
+                "image": "http://pbs.twimg.com/profile_images/591613065956696064/dm9Uj6x-_normal.jpg", 
+                "location": "Patna,India", 
+                "name": "Abhi", 
+                "tweets": 53811, 
+                "verified": false
+            }
+        }, 
+        {
+            "count": {
+                "favorite": 146, 
+                "retweet": 218
+            }, 
+            "created_at": "Sat Apr 25 06:44:02 +0000 2015", 
+            "hashtags": [
+                "Earthquake"
+            ], 
+            "sentiment": 16, 
+            "text": "25/4/15 prayers and hope there are no casualty damages or losses from the #Earthquake.measuring 7.7 in nepal http://t.co/MeS7mr6I3M", 
+            "user": {
+                "description": "Stay strong, life is hard but believe that there's always a rainbow after every storm.", 
+                "favorite": null, 
+                "followers": 388678, 
+                "image": "http://pbs.twimg.com/profile_images/560383519604473856/XTdSQD5u_normal.jpeg", 
+                "location": "", 
+                "name": "Happiness is ", 
+                "tweets": 317, 
+                "verified": false
+            }
+        }
+    ], 
+    "success": true
+}
