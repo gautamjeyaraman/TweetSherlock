@@ -1,0 +1,27 @@
+.v8div{
+padding:10px;
+}
+
+.v8name{
+display: inline-block;
+margin-left: 15px;
+font-size: 20px;
+position: relative;
+top: -5px;
+}
+
+.v8desc{
+font-size: 12px;
+margin-left: 60px;
+display: inline-block;
+position: relative;
+top: -15px;
+}
+
+.v8text{
+font-size: 22px;
+}
+
+.timeslot .task span {
+font-size:13px;
+}

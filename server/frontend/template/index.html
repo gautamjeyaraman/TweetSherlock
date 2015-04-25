@@ -59,6 +59,27 @@
         </div>
 
         <div class="row">    
+            <div class="col-lg-6">
+                <div class="box">
+                    <div class="box-header" data-original-title="">
+                        <h2><i class="fa fa-user"></i><span class="break"></span>User Details</h2>
+                    </div>
+                    <div class="box-content" id="viewDiv8">
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-6">
+                <div class="box">
+                    <div class="box-header" data-original-title>
+                        <h2><i class="fa fa-list-alt"></i><span class="break"></span>Top Users</h2>
+                    </div>
+                    <div class="box-content" id="viewDiv9" style="height:500px;"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">    
             <div class="col-sm-6">
                 <div class="box">
                     <div class="box-header" data-original-title>
@@ -107,6 +128,25 @@
 </div>
 </script>
 
- </body>
+<script type="text/template" id="viewItem8">
+<div class="v8div">
+    <div>
+        <img src="<%-user.image%>" style="width:40px;height:40px;"/>
+        <div class="v8name"><%-user.name%>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#777;font-size:12px;"><%-user.location%></span></div>
+        <div class="v8desc"><%-user.description%></div>
+    </div>
+    <div style="margin-left: 60px;color:#777;position: relative;top: -15px;">
+        <%-user.followers%> followers &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<%-user.tweets%> tweets
+    </div>
+    <div class="v8text">
+        <%-text%>
+    </div>
+    <div style="color:#777;">
+        <%-count.retweet%> retweets &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<%-count.favorite%> favorites
+    </div>
+</div>
+</script>
+
+</body>
  
 </html>
