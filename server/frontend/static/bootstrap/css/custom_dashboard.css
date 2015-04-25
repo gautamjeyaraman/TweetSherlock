@@ -90,19 +90,19 @@ background:#78CD51;
 }
 
 .positive .task .at-arrow {
-background: url(../../acme-theme/img/timeline-left-arrow-green.png) no-repeat;
+background: url(../img/timeline-left-arrow-green.png) no-repeat;
 }
 
 .positive.alt .task .at-arrow {
-background: url(../../acme-theme/img/timeline-right-arrow-green.png) no-repeat;
+background: url(../img/timeline-right-arrow-green.png) no-repeat;
 }
 
 .negative .task .at-arrow {
-background: url(../../acme-theme/img/timeline-left-arrow-red.png) no-repeat;
+background: url(../img/timeline-left-arrow-red.png) no-repeat;
 }
 
 .negative.alt .task .at-arrow {
-background: url(../../acme-theme/img/timeline-right-arrow-red.png) no-repeat;
+background: url(../img/timeline-right-arrow-red.png) no-repeat;
 }
 
 .labelName{
