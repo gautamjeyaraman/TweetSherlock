@@ -22,4 +22,9 @@ class APIBase(cyclone.web.RequestHandler):
 class TweetHandler(APIBase):
 
     def get(self):
-        return self.write_json({'success': True})
+        twitter_client = TwitterClient()
+        query = self.get_argument("q")
+        data = twitter_client.getTweets(query)
+        tweets = data['statuses']
+        
+        return self.write_json({'success': True, 'data': data})
