@@ -1,6 +1,7 @@
 import json
 from cyclone_server import config
 from twitter_client import TwitterClient
+from sentiment_client import SentimentClient
 import cyclone
 
 class APIBase(cyclone.web.RequestHandler):
@@ -28,3 +29,4 @@ class TweetHandler(APIBase):
         tweets = data['statuses']
         
         return self.write_json({'success': True, 'data': data})
+
