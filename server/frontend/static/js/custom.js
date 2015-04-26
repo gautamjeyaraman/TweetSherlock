@@ -192,6 +192,69 @@ function renderView6(){
 	$("#total-revs").html(totalRevs);
 }
 
+function getMeanByKey(key){
+    var sum = data.reduce(function(sum, value){
+      return sum + value['count'][key];
+    }, 0); 
+    var mean = sum / data.length;
+    return mean;
+}
+
+function getMeanByValue(arr){
+    var sum = arr.reduce(function(sum, value){
+      return sum + value;
+    }, 0); 
+    var mean = sum / arr.length;
+    return mean;
+}
+
+function getSD(key){
+    var mean = getMeanByKey(key)
+    var diffs = data.map(function(value){
+      var diff = value['count'][key] - mean;
+      var sqr = diff * diff;
+      return sqr;
+    });
+    
+    var avgSquareDiff = getMeanByValue(diffs);
+    var stdDev = Math.sqrt(avgSquareDiff);
+    return {'sd': stdDev, 'mean': mean};
+}
+
+function renderView9(){
+    var keys = ['favorite', 'retweet', 'views'];
+
+    for(var i=0; i<data.length; i++){
+        data[i].stats = {};
+        for(var j=0; j<keys.length; j++){
+            data[i].stats[keys[j]] = 0;
+        }
+    }
+
+    for(var i=0; i<keys.length; i++){
+        var stats = getSD(keys[i]);
+        for(var j=0; j<data.length; j++){
+            if(data[j].count[keys[i]] > stats.mean){
+                var val = data[j].count[keys[i]] - stats.mean;
+                data[j].stats[keys[i]] = ~~(val / stats.sd);
+            }
+        }
+    }
+
+    for(var i=0; i<data.length; i++){
+        data[i].stats.total = 0;
+        for(var j=0; j<keys.length; j++){
+            data[i].stats.total += data[i].stats[keys[j]];
+        }
+    }
+
+    var info = _.sortBy(data, function(d){return -d.stats.total;}).slice(0,5);
+
+    var viewDiv0 = $("#viewDiv0");
+    viewDiv0.html("");
+    var viewTmpl0 = _.template($("#viewItem0").html());
+    viewDiv0.append(viewTmpl0({'info': info}));
+}
 
 function renderAllViews(){
     renderView1();
@@ -199,6 +262,7 @@ function renderAllViews(){
     renderView5();
     renderView4();
     renderView6();
+    renderView9();
 }
 
 $(document).ready(function() {

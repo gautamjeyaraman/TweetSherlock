@@ -55,13 +55,14 @@ class TweetHandler(APIBase):
                 tweets.append(tweet['retweeted_status'])
             row = { 'created_at': tweet['created_at'],
                     'count': { 'favorite': tweet['favorite_count'],
-                               'retweet': tweet['retweet_count']
+                               'retweet': tweet['retweet_count'],
+                               'views': tweet['user'].get('followers_count', 0)
                     },
                     'text': tweet['text'],
                     'hashtags': [x['text'] for x in tweet['entities']['hashtags']],
                     'user': { 'description': tweet['user'].get('description', None),
-                              'favorite': tweet['user'].get('favorites_count', None),
-                              'followers': tweet['user'].get('followers_count', None),
+                              'favorite': tweet['user'].get('favorites_count', 0),
+                              'followers': tweet['user'].get('followers_count', 0),
                               'location': tweet['user'].get('location', None),
                               'name': tweet['user'].get('name', None),
                               'image': tweet['user'].get('profile_image_url', None),
