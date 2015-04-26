@@ -15,6 +15,13 @@ function initiateWidgetEvents(){
 	    });
 		                                 
     });
+    
+    $('#search_key').keydown(function(event){ 
+        var keyCode = (event.keyCode ? event.keyCode : event.which);   
+        if (keyCode == 13) {
+            $('#search_button').trigger('click');
+        }
+    });
 }
 
 function renderView1(){
@@ -104,10 +111,57 @@ function renderView4(){
     renderView3(impName);
 }
 
+function renderView6(){
+    $("#sentimentchart").html("");
+    
+    var sentimentInfo = {"positive":0,
+                         "negative":0,
+                         "nautral":0}
+
+    for(var i=0;i<data.length;i++){
+        if(data[i].sentiment > 65){
+            sentimentInfo["positive"] += 1;
+        }
+        else if(data[i].sentiment < 35){
+            sentimentInfo["negative"] += 1;
+        }
+        else if(data[i].sentiment > 35 && data[i].sentiment < 65){
+            sentimentInfo["nautral"] += 1;
+        }
+    }
+
+    var rows = _.pairs(sentimentInfo);
+    var renderData = [];
+    var totalRevs = 0;
+    for(var i=0; i<rows.length; i++){
+        renderData.push({'label': rows[i][0],
+                         'data': rows[i][1]
+                        });
+        totalRevs += rows[i][1];
+    }
+    
+    $.plot($("#sentimentchart"), renderData, {
+		series: {
+				pie: {
+						innerRadius: 0.5,
+						show: true
+				}
+		},
+		legend: {
+			show: false
+		},
+		colors: ["#1B5E20", "#FF9800", "#F44336"]
+	});
+	
+	$("#total-revs").html(totalRevs);
+}
+
+
 function renderAllViews(){
     renderView1();
     renderView2();
     renderView4();
+    renderView6();
 }
 
 $(document).ready(function() {
