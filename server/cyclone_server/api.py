@@ -7,6 +7,8 @@ import cyclone
 
 #sentiment_classifier = SentimentClient()
 
+stopWords = ['role_player', 'false', 'hearsay', 'imposter', 'faker', 'treasonably', 'cook', 'pseud', 'phoney', 'imitation', 'fake', 'faux', 'misrepresent', 'manipulate', 'counterfeit', 'bastard', 'shammer', 'traitorously', 'assumed', 'wangle', 'delusive', 'fictitious', 'bogus', 'forge', 'treacherously', 'fudge', 'falsify', 'juke', 'untrue', 'fictive', 'bruit', 'phony', 'pretended', "talk_through_one's_hat", 'mistaken', 'bull', 'pretender', 'off-key', 'bullshit', 'rumor', 'rumour', 'fraud', 'put_on', 'impostor', 'pseudo', 'sour', 'simulated', 'faithlessly', 'sham', 'postiche']
+
 class APIBase(cyclone.web.RequestHandler):
 
     def get_config(self):
@@ -21,6 +23,20 @@ class APIBase(cyclone.web.RequestHandler):
     def write_json(self, d):
         self.set_header("Content-Type", "application/json")
         return self.write(json.dumps(d, sort_keys=True, indent=4))
+
+
+def fakeAnalyser(tweet):
+    val = None
+    tweet = tweet.split(' ')
+    for stopWord in stopWords:
+        if stopWord in tweet:
+            if text[text.index(stopWord)-1] == 'not':
+                val = 1
+            else:
+                val = 2
+    if not val:
+        val = 3
+    return val
 
 
 class TweetHandler(APIBase):
@@ -52,7 +68,8 @@ class TweetHandler(APIBase):
                               'tweets': tweet['user'].get('statuses_count', None),
                               'verified': tweet['user'].get('verified', None)
                     },
-                    'sentiment': sentiment_classifier.getSentiment(tweet['text'])
+                    'sentiment': sentiment_classifier.getSentiment(tweet['text']),
+                    'fake': fakeAnalyser(tweet['text'])
             }
             response.append(row)'''
         response = json.loads(open("result.json", "r").read())
