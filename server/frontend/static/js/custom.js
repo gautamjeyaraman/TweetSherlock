@@ -116,7 +116,7 @@ function renderView6(){
     
     var sentimentInfo = {"positive":0,
                          "negative":0,
-                         "nautral":0}
+                         "neutral":0}
 
     for(var i=0;i<data.length;i++){
         if(data[i].sentiment > 65){
@@ -126,7 +126,7 @@ function renderView6(){
             sentimentInfo["negative"] += 1;
         }
         else if(data[i].sentiment > 35 && data[i].sentiment < 65){
-            sentimentInfo["nautral"] += 1;
+            sentimentInfo["neutral"] += 1;
         }
     }
 
