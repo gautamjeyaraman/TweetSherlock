@@ -38,3 +38,7 @@ margin-bottom:30px;
 font-weight: 100;
 font-family:'Open Sans', sans-serif;
 }
+
+.loading{
+display:none;
+}

@@ -5,12 +5,17 @@ var data = data || {};
 function initiateWidgetEvents(){
     $('#search_button').click(function(e){
 	    e.preventDefault();
+	    $(".loading").css("display", "block");
 	    var q = $('#search_key').val();
 	    var url = '/api/latest/tweets';
 	    var params = {'q': q}
 	    $.get(url, params).then(function(res){
+        	    $(".loading").hide();
 			    if(res.data){
 				    data = res.data
+                    $('html, body').animate({
+                        scrollTop: 1000
+                    }, 700);
 				    $('#search_key').val("");
                     renderAllViews();
 			    } 

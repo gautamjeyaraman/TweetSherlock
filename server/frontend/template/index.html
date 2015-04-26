@@ -28,9 +28,33 @@
 				<div class="intro_text">Tweet Sherlock</div>
                 <input class="search_textbox" type="text" id="search_key" style="width: 39%;margin-left: 360px;border-radius: 5px 0 0 5px;"/>
                 <button id="search_button" style="height: 35px;margin-left: -5px;border-radius: 0 5px 5px 0;" class="btn btn-warning"><i class="icon-search" style="opacity:0.5;"></i> Search</button>
+                <img class="loading" src="/static/bootstrap/img/spinner-mini.gif" style="margin:auto;margin-top:80px;" />
+                <div class="loading" style="color: #FFF;text-shadow: 0 0 5px #000;font-size: 24px;font-weight: 100;text-align: center;">Processing...</div>
             </div>
         </div>
-    <div style="margin-top:400px"></div>
+        <div style="margin-top: 400px;font-size: 36px;font-weight: 100;text-align: center;margin-bottom: 30px;">Evidence Dashboard</div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="box">
+                    <div class="box-header" data-original-title>
+                        <h2><i class="fa fa-list-alt"></i><span class="break"></span>Sentiment</h2>
+                    </div>
+                    <div class="box-content">
+                         <div id="sentimentchart" style="height: 300px;"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="box">
+                    <div class="box-header" data-original-title>
+                        <h2><i class="fa fa-list-alt"></i><span class="break"></span>Twitter verified users</h2>
+                    </div>
+                    <div class="box-content">
+                         <div id="donutchart" style="height: 300px;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="row">    
             <div class="col-lg-6">
                 <div class="box">
@@ -84,17 +108,6 @@
         <div class="row">    
             <div class="col-sm-6">
                 <div class="box">
-                    <div class="box-header" data-original-title>
-                        <h2><i class="fa fa-list-alt"></i><span class="break"></span>Twitter verified users</h2>
-                    </div>
-                    <div class="box-content">
-                         <div id="donutchart" style="height: 300px;"></div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-sm-6">
-                <div class="box">
                     <div class="box-header" data-original-title="">
                         <h2><i class="fa fa-user"></i><span class="break"></span>Top 10 hashtags</h2>
                     </div>
@@ -117,19 +130,6 @@
 					</div>
 				</div>
 			</div><!--/col-->
-        </div>
-
-        <div class="row">
-            <div class="col-sm-6">
-                <div class="box">
-                    <div class="box-header" data-original-title>
-                        <h2><i class="fa fa-list-alt"></i><span class="break"></span>Sentiment</h2>
-                    </div>
-                    <div class="box-content">
-                         <div id="sentimentchart" style="height: 300px;"></div>
-                    </div>
-                </div>
-            </div>
         </div>
 
     </div>
@@ -168,7 +168,6 @@
 </div>
 </script>
 
-<<<<<<< HEAD
 <script type="text/template" id="viewItem5">
 <tr>
 	<td class="center ">
@@ -181,8 +180,6 @@
 </tr>
 </script>
 
- </body>
-=======
 <script type="text/template" id="viewItem8">
 <div class="v8div">
     <div>
@@ -203,6 +200,5 @@
 </script>
 
 </body>
->>>>>>> fb1edcb0d8af5c37ee83d6044f71e5e280c61584
  
 </html>
