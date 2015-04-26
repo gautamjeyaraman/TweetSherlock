@@ -22,11 +22,12 @@
   <body>
 
     <div class="container">
-        <div class="row" style="margin-top: 66px;background-image:url('/static/images/Dark-wood-black-background.jpg');">
+        <div class="row" style="margin-top: 66px;">
+            <img src="/static/images/bg.jpg" style="position: absolute;top: 0;width: 100%;z-index: -1;"/>
             <div class="col-lg-16" style="margin-bottom: 270px;">
-				<div class="intro_text">Test search</div>
-                <input class="search_textbox" type="text" id="search_key" style="width: 39%;margin-left: 360px;"/>
-                <button id="search_button" class="btn"><i class="icon-search" style="opacity:0.5;"></i> Search</button>
+				<div class="intro_text">Tweet Sherlock</div>
+                <input class="search_textbox" type="text" id="search_key" style="width: 39%;margin-left: 360px;border-radius: 5px 0 0 5px;"/>
+                <button id="search_button" style="height: 35px;margin-left: -5px;border-radius: 0 5px 5px 0;" class="btn btn-warning"><i class="icon-search" style="opacity:0.5;"></i> Search</button>
             </div>
         </div>
 	<div style="margin-top:400px"></div>
@@ -67,6 +68,17 @@
                     </div>
                     <div class="box-content">
                          <div id="donutchart" style="height: 300px;"></div>
+                    </div>
+                </div>
+            </div>
+  
+            <div class="col-sm-6">
+                <div class="box">
+                    <div class="box-header" data-original-title>
+                        <h2><i class="fa fa-list-alt"></i><span class="break"></span>Sentiment</h2>
+                    </div>
+                    <div class="box-content">
+                         <div id="sentimentchart" style="height: 300px;"></div>
                     </div>
                 </div>
             </div>
