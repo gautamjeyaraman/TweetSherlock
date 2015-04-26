@@ -1,5 +1,7 @@
 var data = data || {};
 
+
+
 function initiateWidgetEvents(){
     $('#search_button').click(function(e){
 	    e.preventDefault();
@@ -90,6 +92,35 @@ function renderView2(){
 	$("#total-revs").html(totalRevs);
 }
 
+function renderView5(){
+    var viewDiv5 = $("#viewDiv5");
+    viewDiv5.html("");
+    var hashtagList = {};
+    var viewTmpl5 = _.template($("#viewItem5").html());
+	for(var i=0; i<data.length; i++){
+        for(var j=0; j<data[i].hashtags.length; j++){
+            var hashtag = data[i].hashtags[j];
+            if(_.has(hashtagList, hashtag)){
+                hashtagList[hashtag] = hashtagList[hashtag] + 1;
+            }else{
+                hashtagList[hashtag] = 1;
+            }
+        }
+    }
+
+    hashtagList = _.pairs(hashtagList)
+    var maxOc = 0;
+    _.each(hashtagList, function(d){ if (d[1] > maxOc){maxOc = d[1];}});
+    hashtagList = _.sortBy(hashtagList, function(d){return -d[1];}).slice(0, 10);
+    for(var i=0; i<hashtagList.length; i++){
+        datadict = {'occPer': (hashtagList[i][1] / maxOc) * 100,
+                    'name': hashtagList[i][0],
+                    'count': hashtagList[i][1]
+        };
+        viewDiv5.append(viewTmpl5(datadict));
+    } 
+}
+
 function renderView3(username){
     var viewDiv8 = $("#viewDiv8");
     viewDiv8.html("");
@@ -160,6 +191,7 @@ function renderView6(){
 function renderAllViews(){
     renderView1();
     renderView2();
+    renderView5();
     renderView4();
     renderView6();
 }
