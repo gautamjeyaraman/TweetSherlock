@@ -1,11 +1,11 @@
 import json
 from cyclone_server import config
 from twitter_client import TwitterClient
-#from sentiment_client import SentimentClient
+from sentiment_client import SentimentClient
 import cyclone
 
 
-#sentiment_classifier = SentimentClient()
+sentiment_classifier = SentimentClient()
 
 stopWords = ['role_player', 'false', 'hearsay', 'imposter', 'faker', 'treasonably', 'cook', 'pseud', 'phoney', 'imitation', 'fake', 'faux', 'misrepresent', 'manipulate', 'counterfeit', 'bastard', 'shammer', 'traitorously', 'assumed', 'wangle', 'delusive', 'fictitious', 'bogus', 'forge', 'treacherously', 'fudge', 'falsify', 'juke', 'untrue', 'fictive', 'bruit', 'phony', 'pretended', "talk_through_one's_hat", 'mistaken', 'bull', 'pretender', 'off-key', 'bullshit', 'rumor', 'rumour', 'fraud', 'put_on', 'impostor', 'pseudo', 'sour', 'simulated', 'faithlessly', 'sham', 'postiche']
 
@@ -42,17 +42,21 @@ def fakeAnalyser(tweet):
 class TweetHandler(APIBase):
 
     def get(self):
-        '''twitter_client = TwitterClient()
+        twitter_client = TwitterClient()
         query = self.get_argument("q")
         print "Fetching tweets"
         data = twitter_client.getTweets(query)
 
         print "Processing for sentiment"
         tweets = data['statuses']
+        idList = []
         response = []
         for tweet in tweets:
             if 'retweeted_status' in tweet.keys() and type(tweet['retweeted_status']) == type({}):
                 tweets.append(tweet['retweeted_status'])
+            if tweet['id'] in idList:
+                continue
+            idList.append(tweet['id'])
             row = { 'created_at': tweet['created_at'],
                     'count': { 'favorite': tweet['favorite_count'],
                                'retweet': tweet['retweet_count'],
@@ -72,8 +76,8 @@ class TweetHandler(APIBase):
                     'sentiment': sentiment_classifier.getSentiment(tweet['text']),
                     'fake': fakeAnalyser(tweet['text'])
             }
-            response.append(row)'''
-        response = json.loads(open("result.json", "r").read())
+            response.append(row)
+        #response = json.loads(open("result.json", "r").read())
         
         return self.write_json({'success': True, 'data': response})
 
