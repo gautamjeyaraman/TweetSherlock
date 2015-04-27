@@ -17,7 +17,7 @@ There are so many different enhancements that can be done. Some are:
 - Use topic classification of tweets and use it to relate with the tweeter's profile
 - Load and process the tweets in real time continuously
 - Use location as a search and filter parameter while searching, processing and visualising
-- User real time filtering on the data based on various parameters
+- Use real time filtering on the data based on various parameters
 
 ###Instructions to run the code
 Download the code. Install all the requirements and then, move to server folder and run tools/run.py
